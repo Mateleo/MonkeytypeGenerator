@@ -1,5 +1,7 @@
 # MonkeytypeGenerator
 
+100% Français, 100% Python
+
 ## Introduction
 
 Génère une suite de mots du dictionnaire français avec les lettres de votre choix !

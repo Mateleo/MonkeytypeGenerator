@@ -1,11 +1,19 @@
 #function to test if a word is using only those letters
 # return boolean
 def WordTester(myword):
-    letterList = ['a','e','i','u','s','o','v','t','n','\n']
-    for letter in myword:
-        if not letter in letterList:
-            return False
-    return True
+    letterList = ['b','v','c','lli','u','o','a','rr','n','\n']
+    if len(letterList)==1 and letterList[0] in myword:
+        return True
+    else:
+        for tmp in letterList[:-1]:
+            if(len(tmp)>=2 and tmp in myword):
+                #le mot possède le string
+                NewWord = myword.replace(tmp,"")
+                for letter in NewWord:
+                    if not letter in letterList:
+                        return False
+                return True
+    return False
 
 #clean the word of the last \n
 def WordCleaner(myword):
@@ -28,10 +36,17 @@ def export(lenght, min, max):
         word = WordCleaner(word)
         if(WordTester(word) and ForkGrabber(min, max, word)):
             tmp.append(word)
-    for x in tmp[0::int(len(tmp)/(lenght-1))]:
-        exp.write(x+" ")
+    for i in tmp:
+        print(i)
+    if len(tmp)<=lenght:
+        for x in tmp:
+            exp.write(x+" ")
+    else:
+        for x in tmp[0::int(len(tmp)/(lenght-1))]:
+            exp.write(x+" ")
+        
     exp.close()
     fr.close()
 
 #main
-export(15, 5, 8)
+export(30, 3, 12)

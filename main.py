@@ -12,26 +12,26 @@ def WordCleaner(myword):
     return myword[:-1]
 
 #test if the word is between x and y
+#useful if you want a specific lenght
 def ForkGrabber(x,y,word):
     if(len(word)>=x and len(word)<=y):
         return True
     else:
         return False
 
-#export to a file. couter is to know the size
-def export():
+#export to a file.
+def export(lenght, min, max):
     tmp = []
-    counter = 10
     fr = open("dicofr.txt","r",encoding="utf-8")
     exp = open('Output/export.txt',"w+",encoding="utf-8")
     for word in fr:
         word = WordCleaner(word)
-        if(WordTester(word) and ForkGrabber(5, 7, word)):
+        if(WordTester(word) and ForkGrabber(min, max, word)):
             tmp.append(word)
-    for x in tmp[0::int(len(tmp)/(counter-1))]:
+    for x in tmp[0::int(len(tmp)/(lenght-1))]:
         exp.write(x+" ")
     exp.close()
     fr.close()
-#main
 
-export()
+#main
+export(15, 5, 8)

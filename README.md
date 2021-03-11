@@ -15,6 +15,9 @@ Le txt de sortie se trouve alors dans le dossier Output.
 
 ## Roadmap
 
+- Prendre en charge des suites de caractères - **DONE**
+- UI et son blindage
 - Gérer les accents
 - Prendre en charge les caractères spéciaux
+- générateur de phrases réelles
 

@@ -1,9 +1,7 @@
-fr = open("dicofr.txt","r",encoding="utf-8")
-letterList = ['a','e','i','u','s','o','v','t','n','\n']
-
 #function to test if a word is using only those letters
 # return boolean
 def WordTester(myword):
+    letterList = ['a','e','i','u','s','o','v','t','n','\n']
     for letter in myword:
         if not letter in letterList:
             return False
@@ -19,19 +17,21 @@ def ForkGrabber(x,y,word):
         return True
     else:
         return False
-        
+
 #export to a file. couter is to know the size
 def export():
-    counter = 0
+    tmp = []
+    counter = 10
+    fr = open("dicofr.txt","r",encoding="utf-8")
     exp = open('Output/export.txt',"w+",encoding="utf-8")
     for word in fr:
         word = WordCleaner(word)
-        if(WordTester(word) and ForkGrabber(5, 7, word) and counter<60):
-            exp.write(word+" ")
-            counter+=1
+        if(WordTester(word) and ForkGrabber(5, 7, word)):
+            tmp.append(word)
+    for x in tmp[0::int(len(tmp)/(counter-1))]:
+        exp.write(x+" ")
     exp.close()
-
+    fr.close()
 #main
 
 export()
-fr.close()

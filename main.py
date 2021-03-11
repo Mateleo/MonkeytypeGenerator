@@ -20,17 +20,18 @@ def ForkGrabber(x,y,word):
 
 #export to a file. couter is to know the size
 def export():
+    tmp = []
+    counter = 10
     fr = open("dicofr.txt","r",encoding="utf-8")
     exp = open('Output/export.txt',"w+",encoding="utf-8")
-    counter = 0
     for word in fr:
         word = WordCleaner(word)
-        if(WordTester(word) and ForkGrabber(5, 7, word) and counter<60):
-            exp.write(word+" ")
-            counter+=1
+        if(WordTester(word) and ForkGrabber(5, 7, word)):
+            tmp.append(word)
+    for x in tmp[0::int(len(tmp)/(counter-1))]:
+        exp.write(x+" ")
     exp.close()
     fr.close()
-
 #main
 
 export()

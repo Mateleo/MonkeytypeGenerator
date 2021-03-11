@@ -1,0 +1,6346 @@
+--- AFFICHAGE DES LISTES (triées, sans méta-données) ---
+
+--- AFFICHAGE DE LA LISTE DES 428 VERBES (transitifs et assimilés) ---
+
+abandonner
+abattre
+absorber
+accepter
+accoster
+accuser
+acheter
+achever
+activer
+admirer
+adorer
+agacer
+agiter
+agripper
+aimer
+alimenter
+allaiter
+allumer
+amener
+amorcer
+analyser
+annexer
+annoncer
+annuler
+apercevoir
+aplatir
+appeler
+apporter
+apprivoiser
+approcher
+arranger
+arroser
+aspirer
+assaisonner
+asservir
+assommer
+atermoyer
+attaquer
+atteindre
+attendre
+attirer
+attraper
+augmenter
+ausculter
+avoir
+avoir (en horreur)
+balafrer
+balancer
+balayer
+bannir
+baptiser
+battre
+bercer
+bloquer
+blâmer
+bousculer
+brancher
+brandir
+briser
+broder
+brouiller
+broyer
+brûler
+butiner
+bâtir
+bénir
+cabosser
+cacher
+cambrioler
+camoufler
+capturer
+casser
+catapulter
+censurer
+charger
+chasser
+chatouiller
+chercher
+chevaucher
+chiffrer
+choisir
+choper
+choyer
+cirer
+clarifier
+coltiner
+combattre
+commander
+compléter
+comprendre
+compromettre
+compter
+concurrencer
+conduire
+congeler
+connaître
+conserver
+considérer
+consommer
+conspuer
+construire
+consulter
+contourner
+contredire
+convoiter
+convoyer
+copier
+couvrir
+craindre
+croquer
+crucifier
+crypter
+créer
+cuire
+cultiver
+demander
+demander (en mariage)
+dessiner
+devancer
+devenir
+digérer
+diminuer
+dissimuler
+disséquer
+distancer
+dompter
+durcir
+décharger
+décongeler
+décorer
+décortiquer
+découper
+découvrir
+décrypter
+défendre
+définir
+défoncer
+démonter
+dénaturer
+dénigrer
+dénoncer
+dépasser
+déplacer
+déplier
+déplorer
+déployer
+déposer
+déranger
+dérouiller
+désamorcer
+désavouer
+déshabiller
+désigner
+déséquilibrer
+détacher
+détenir
+détester
+détourner
+détruire
+dévaliser
+dévisser
+effacer
+effiler
+effrayer
+emballer
+embarquer
+embellir
+embrouiller
+emmener
+employer
+emporter
+encadrer
+encercler
+endommager
+enfermer
+enflammer
+enlacer
+enlever
+enrayer
+enrhumer
+entasser
+entendre
+entourer
+entrapercevoir
+entretenir
+envelopper
+envisager
+escamoter
+espérer
+esquiver
+essayer
+essuyer
+exiger
+exporter
+exécuter
+faire
+faire (chanter)
+faire (taire)
+fermer
+filtrer
+financer
+finir
+flagorner
+foudroyer
+fouetter
+frapper
+frôler
+féliciter
+gagner
+garder
+gonfler
+goûter
+grignoter
+habiller
+haïr
+honnir
+humer
+hypnotiser
+imaginer
+imiter
+importer
+influencer
+inhaler
+installer
+interdire
+intérioriser
+inventer
+inviter
+irriguer
+jeter
+jeter
+juger
+labourer
+laisser
+lancer
+lapider
+laver
+lever
+libérer
+lier
+ligoter
+limer
+limiter
+machouiller
+manger
+manipuler
+mastiquer
+maîtriser
+menacer
+mesurer
+mettre (de côté)
+mettre (en désordre)
+mettre (en scène)
+mettre (à l'index)
+mettre (à part)
+mimer
+modifier
+monnayer
+montrer
+mordre
+mâcher
+mériter
+nettoyer
+nourrir
+négliger
+obtenir
+occulter
+offenser
+omettre
+opprimer
+opérer
+organiser
+oublier
+ouvrir
+parfumer
+partager
+payer
+peindre
+percer
+percevoir
+percuter
+perdre
+perforer
+peser
+piquer
+placer
+planter
+plier
+pondre
+porter
+poser
+posséder
+pourchasser
+pourfendre
+pousser
+pratiquer
+prendre
+prendre (en charge)
+prendre (en compte)
+prendre (en exemple)
+prendre (en grippe)
+prendre (en mariage)
+prendre (à l'essai)
+presser
+produire
+promener
+proposer
+proscrire
+provoquer
+préconiser
+préférer
+pulvériser
+racheter
+ramener
+ranger
+raper
+rappeler
+rater
+rattraper
+rechercher
+recommander
+reconnaître
+redouter
+refuser
+regarder
+regonfler
+regretter
+rejeter
+rejoindre
+relancer
+relayer
+relever
+remettre (en ordre)
+remplacer
+remplir
+rendre
+renforcer
+renverser
+replacer
+replier
+reporter
+repousser
+reprendre
+repérer
+respecter
+restreindre
+retenir
+retenir (en otage)
+retrouver
+revendiquer
+rhabiller
+rincer
+réclamer
+récupérer
+réfuter
+résoudre
+réunir
+réussir
+réveiller
+révéler
+saler
+scier
+se payer
+se rappeler
+secouer
+sentir
+servir
+soulever
+soupeser
+soutenir
+subodorer
+sucrer
+suivre
+supporter
+surestimer
+surmonter
+suspendre
+séduire
+sélectionner
+tabasser
+tenir
+tenir (en haute estime)
+tenter
+tester
+tirer
+tondre
+toucher
+tracer
+trahir
+transpercer
+transporter
+traquer
+tricoter
+trimbaler
+trouver
+tutoyer
+user
+utiliser
+vanter
+vaporiser
+vendre
+ventouser
+vider
+viser
+vitrifier
+voir
+voler
+vouloir
+vouvoyer
+vérifier
+écharper
+éclaircir
+égayer
+égratigner
+élever
+éplucher
+épouser
+équilibrer
+érafler
+ériger
+éteindre
+étendre
+étonner
+étreindre
+étudier
+évaluer
+éviter
+être
+
+--- AFFICHAGE DE LA LISTE DES 365 VERBES (intransitifs et assimilés) ---
+
+abandonner
+abdiquer
+aboyer
+accoucher
+accélérer
+agir
+agoniser
+alunir
+apparaître
+appeler (au secours)
+appeler (à l'aide)
+arriver
+attendre
+atterrir
+avancer
+avoir (faim)
+avoir (soif)
+avoir (sommeil)
+baffrer
+bafouiller
+balbutier
+barboter
+batifoler
+bavarder
+baver
+beugler
+bifurquer
+bivouaquer
+blasphémer
+blémir
+bondir
+bosser
+bouder
+bouger
+bouquiner
+bourlinguer
+boursicoter
+bricoler
+briller
+bronzer
+brûler
+bégayer
+casser (la croûte)
+chahuter
+changer
+chanter
+chigner
+chipoter
+chuchoter
+chuinter
+chômer
+cicatriser
+circuler
+clignoter
+cogiter
+comploter
+conspirer
+coopérer
+cotiser
+couiner
+courir
+cracher
+craquer
+crier
+crier (victoire)
+cuisiner
+culpabiliser
+céder
+digérer
+diminuer
+discuter
+disparaître
+divaguer
+divorcer
+donner (l'alerte)
+dormir
+double-cliquer
+douter
+débrayer
+déchanter
+déclarer (forfait)
+décliner
+décompresser
+déconner
+déjeuner
+délibérer
+délirer
+démissionner
+déprimer
+dépérir
+déraper
+dériver
+déteindre
+embrayer
+empester
+enfler
+errer
+exister
+expirer
+exploser
+exulter
+faiblir
+faire (dodo)
+faire (fortune)
+faire (grève)
+faire (le poids)
+fanfaronner
+fantasmer
+festoyer
+filer
+flamboyer
+fleurir
+flâner
+fondre
+frimer
+frissonner
+frémir
+frétiller
+fuir
+fulminer
+fumer
+gamberger
+garder (courage)
+gargouiller
+gazouiller
+geindre
+geindre
+gesticuler
+gigoter
+glander
+glisser
+glousser
+gonfler
+grandir
+grelotter
+grimacer
+grogner
+grossir
+guerroyer
+guérir
+gémir
+hennir
+hiberner
+hululer
+hurler
+hésiter
+imploser
+insister
+intervenir
+jardiner
+jaunir
+jeter (l'éponge)
+jeûner
+jongler
+jouer
+jouer (aux échecs)
+jubiler
+languir
+lire
+lâcher (prise)
+léviter
+macérer
+maigrir
+manœuvrer
+marcher
+maugréer
+mener
+mentir
+militer
+mincir
+moisir
+morfler
+mourir
+muer
+mugir
+murmurer
+méditer
+nager
+osciller
+ouvrir (l'œil)
+pagayer
+papoter
+parader
+parlementer
+parler
+partir
+passer
+passer (l'éponge)
+passer (le bac)
+patienter
+patiner
+pavoiser
+peindre
+perdre (connaissance)
+perdre (espoir)
+perdre (la face)
+perdre (la tête)
+persévérer
+pester
+picoler
+pinailler
+pique-niquer
+pivoter
+plaider (coupable)
+pleurer
+plier (boutique)
+poireauter
+polémiquer
+porter (le deuil)
+postillonner
+pourrir
+prendre (feu)
+prendre (la mouche)
+prendre (la parole)
+prendre (le large)
+prendre (racine)
+prier
+progresser
+proliférer
+protester
+puer
+pâlir
+radoter
+rajeunir
+ralentir
+ramer
+ramper
+rebondir
+recommencer
+reculer
+remuer
+rendre (l'âme)
+renoncer
+repartir
+respirer
+resplendir
+ressusciter
+resurgir
+revenir
+ricaner
+rigoler
+riposter
+rire
+ronfler
+ronronner
+roucouler
+rougir
+roupiller
+rugir
+ruminer
+ruser
+râler
+récidiver
+réfléchir
+régresser
+rétrécir
+réussir
+rêver
+rôder
+s'accrocher
+s'agiter
+s'alimenter
+s'allonger
+s'amuser
+s'auto-mutiler
+s'empiffrer
+s'ennuyer
+s'essouffler
+s'exprimer
+s'inquiéter
+s'inscrire
+s'installer
+s'échapper
+s'énerver
+s'étendre
+s'étioler
+saigner
+saliver
+sangloter
+sautiller
+se baigner
+se brosser (les dents)
+se cacher
+se calmer
+se coiffer
+se coucher
+se divertir
+se débrouiller
+se dégonfler
+se désaltérer
+se désinscrire
+se détendre
+se fourvoyer
+se goinfrer
+se laver
+se lever
+se marrer
+se montrer
+se morfondre
+se moucher
+se méfier
+se nourrir
+se noyer
+se planter
+se prosterner
+se racheter
+se rapprocher
+se rattraper
+se relever
+se reposer
+se réveiller
+se soulever
+se suicider
+se tortiller
+se tromper
+siffler
+siffloter
+skier
+sombrer
+somnoler
+souffler
+souffrir
+soupirer
+spéculer
+stagner
+suffoquer
+suinter
+sursauter
+survivre
+temporiser
+tenir (bon)
+tenir (le coup)
+tenir (parole)
+tintinnabuler
+tituber
+tomber
+tourner
+tournoyer
+tousser
+transpirer
+travailler
+traîner
+trembler
+trembloter
+tricher
+tricoter
+trimer
+triompher
+trébucher
+trépigner
+valser
+venir
+verdir
+vibrer
+vieillir
+vivre
+vociférer
+voyager
+végéter
+zigzaguer
+échouer
+écrire
+éternuer
+étouffer
+évoluer
+
+--- AFFICHAGE DE LA LISTE DES 38 VERBES (modaux (+ action à l'infinitif)) ---
+
+admettre (faire)
+adorer (faire)
+affirmer (faire)
+aimer (faire)
+aller (faire)
+assurer (faire)
+avouer (faire)
+compter (faire)
+croire (faire)
+croire (devoir) (faire)
+daigner (faire)
+daigner (aller) (faire)
+devoir (faire)
+devoir (savoir) (faire)
+dire (faire)
+dire (aimer) (faire)
+déclarer (faire)
+déclarer (vouloir) (faire)
+désirer (faire)
+détester (faire)
+nier (faire)
+nier (savoir) (faire)
+oser (faire)
+paraître (faire)
+partir (faire)
+pouvoir (faire)
+préférer (faire)
+prétendre (faire)
+reconnaître (faire)
+retourner (faire)
+revenir (faire)
+savoir (faire)
+savoir (comment) (faire)
+sembler (faire)
+sembler (vouloir) (faire)
+souhaiter (faire)
+vouloir (faire)
+vouloir (pouvoir) (faire)
+
+--- AFFICHAGE DE LA LISTE DES 86 VERBES (modaux (+ DE + action à l'infinitif)) ---
+
+accepter de (faire)
+achever de (faire)
+ambitionner de (faire)
+arrêter de (faire)
+attendre de (faire)
+avoir (besoin) de (faire)
+avoir (envie) de (faire)
+avoir (la chance) de (faire)
+avoir (le courage) de (faire)
+avoir (le droit) de (faire)
+avoir (le pouvoir) de (faire)
+avoir (raison) de (faire)
+avoir (tort) de (faire)
+avoir (à cœur) de (faire)
+brûler de (faire)
+cesser de (faire)
+choisir de (faire)
+considérer (la possibilité) de (faire)
+craindre de (faire)
+décider de (faire)
+désespérer de (faire)
+envisager de (faire)
+essayer de (faire)
+exiger de (faire)
+faire (exprès) de (faire)
+faire (la promesse) de (faire)
+faire (mine) de (faire)
+faire (semblant) de (faire)
+feindre de (faire)
+finir de (faire)
+imaginer de (faire)
+jurer de (faire)
+manquer de (faire)
+menacer de (faire)
+mériter de (faire)
+négliger de (faire)
+omettre de (faire)
+oublier de (faire)
+parler de (faire)
+permettre de (faire)
+pouvoir (refuser) de (faire)
+projeter de (faire)
+promettre de (faire)
+proposer de (faire)
+préconiser de (faire)
+prêter (serment) de (faire)
+redouter de (faire)
+refuser de (faire)
+regretter de (faire)
+risquer de (faire)
+rougir (à l'idée) de (faire)
+réclamer de (faire)
+rêver de (faire)
+s'abstenir de (faire)
+s'accuser de (faire)
+s'arrêter de (faire)
+s'efforcer de (faire)
+s'empresser de (faire)
+s'empêcher de (faire)
+s'excuser de (faire)
+s'interdire de (faire)
+s'occuper de (faire)
+s'étonner de (faire)
+se dispenser de (faire)
+se donner (la peine) de (faire)
+se dépêcher de (faire)
+se féliciter de (faire)
+se garder de (faire)
+se grouiller de (faire)
+se hâter de (faire)
+se lasser de (faire)
+se passer de (faire)
+se permettre de (faire)
+se piquer de (faire)
+se presser de (faire)
+se promettre de (faire)
+se proposer de (faire)
+se reprocher de (faire)
+se retenir de (faire)
+se targuer de (faire)
+se vanter de (faire)
+souffrir de (faire)
+supporter de (faire)
+tenter de (faire)
+tâcher de (faire)
+éviter de (faire)
+
+--- AFFICHAGE DE LA LISTE DES 52 VERBES (modaux (+ À + action à l'infinitif)) ---
+
+appeler à (faire)
+apprendre à (faire)
+arriver à (faire)
+aspirer à (faire)
+avoir (peine) à (faire)
+avoir (plaisir) à (faire)
+chercher à (faire)
+commencer à (faire)
+consentir à (faire)
+continuer à (faire)
+contribuer à (faire)
+hésiter à (faire)
+jouer à (faire)
+participer à (faire)
+parvenir à (faire)
+peiner à (faire)
+penser à (faire)
+persister à (faire)
+prendre (un malin plaisir) à (faire)
+renoncer à (faire)
+renâcler à (faire)
+réussir à (faire)
+s'acharner à (faire)
+s'amuser à (faire)
+s'appliquer à (faire)
+s'attendre à (faire)
+s'autoriser à (faire)
+s'ennuyer à (faire)
+s'entrainer à (faire)
+s'essayer à (faire)
+s'exercer à (faire)
+s'habituer à (faire)
+s'obstiner à (faire)
+se borner à (faire)
+se décider à (faire)
+se forcer à (faire)
+se limiter à (faire)
+se mettre à (faire)
+se préparer à (faire)
+se refuser à (faire)
+se remettre à (faire)
+se résoudre à (faire)
+servir à (faire)
+songer à (faire)
+tarder à (faire)
+tendre à (faire)
+tenir à (faire)
+travailler à (faire)
+veiller à (faire)
+viser à (faire)
+échouer à (faire)
+œuvrer à (faire)
+
+--- AFFICHAGE DE LA LISTE DES 72 VERBES (à deux compléments (+ objet + À + cible)) ---
+
+abandonner (quelquechose) à (cible)
+accorder (quelquechose) à (cible)
+accrocher (quelquechose) à (cible)
+acheter (quelquechose) à (cible)
+amener (quelquechose) à (cible)
+annoncer (quelquechose) à (cible)
+apporter (quelquechose) à (cible)
+apprendre (quelquechose) à (cible)
+assimiler (quelquechose) à (cible)
+associer (quelquechose) à (cible)
+attacher (quelquechose) à (cible)
+coller (quelquechose) à (cible)
+commander (quelquechose) à (cible)
+confier (quelquechose) à (cible)
+confisquer (quelquechose) à (cible)
+conseiller (quelquechose) à (cible)
+demander (quelquechose) à (cible)
+dessiner (quelquechose) à (cible)
+destiner (quelquechose) à (cible)
+donner (quelquechose) à (cible)
+déconseiller (quelquechose) à (cible)
+décrire (quelquechose) à (cible)
+dédicacer (quelquechose) à (cible)
+envoyer (quelquechose) à (cible)
+expliquer (quelquechose) à (cible)
+faire (quelquechose) à (cible)
+faxer (quelquechose) à (cible)
+fournir (quelquechose) à (cible)
+greffer (quelquechose) à (cible)
+imposer (quelquechose) à (cible)
+indiquer (quelquechose) à (cible)
+inoculer (quelquechose) à (cible)
+inspirer (quelquechose) à (cible)
+interdire (quelquechose) à (cible)
+jeter (quelquechose) à (cible)
+laisser (quelquechose) à (cible)
+lancer (quelquechose) à (cible)
+lire (quelquechose) à (cible)
+mendier (quelquechose) à (cible)
+mimer (quelquechose) à (cible)
+montrer (quelquechose) à (cible)
+octroyer (quelquechose) à (cible)
+offrir (quelquechose) à (cible)
+opposer (quelquechose) à (cible)
+passer (quelquechose) à (cible)
+piquer (quelquechose) à (cible)
+prendre (quelquechose) à (cible)
+promettre (quelquechose) à (cible)
+proposer (quelquechose) à (cible)
+présenter (quelquechose) à (cible)
+prêter (quelquechose) à (cible)
+racheter (quelquechose) à (cible)
+ramener (quelquechose) à (cible)
+recommander (quelquechose) à (cible)
+refuser (quelquechose) à (cible)
+remettre (quelquechose) à (cible)
+rendre (quelquechose) à (cible)
+reprendre (quelquechose) à (cible)
+restituer (quelquechose) à (cible)
+revendre (quelquechose) à (cible)
+réclamer (quelquechose) à (cible)
+servir (quelquechose) à (cible)
+signaler (quelquechose) à (cible)
+soutirer (quelquechose) à (cible)
+substituer (quelquechose) à (cible)
+suggérer (quelquechose) à (cible)
+suspendre (quelquechose) à (cible)
+transcrire (quelquechose) à (cible)
+transmettre (quelquechose) à (cible)
+vendre (quelquechose) à (cible)
+voler (quelquechose) à (cible)
+vouer (quelquechose) à (cible)
+
+--- AFFICHAGE DE LA LISTE DES 70 VERBES (suivis de la préposition À) ---
+
+accéder à (cible)
+chercher (querelle) à (cible)
+coller à (cible)
+compter (fleurette) à (cible)
+contribuer à (cible)
+correspondre à (cible)
+demander (conseil) à (cible)
+dire (adieu) à (cible)
+dire (amen) à (cible)
+dire (la bonne aventure) à (cible)
+dire (merci) à (cible)
+dire (non) à (cible)
+dire (stop) à (cible)
+donner (naissance) à (cible)
+déroger à (cible)
+faire (appel) à (cible)
+faire (attention) à (cible)
+faire (confiance) à (cible)
+faire (coucou) à (cible)
+faire (honneur) à (cible)
+faire (honte) à (cible)
+faire (la cour) à (cible)
+faire (les yeux doux) à (cible)
+faire (mordre la poussière) à (cible)
+faire (obstacle) à (cible)
+faire (peur) à (cible)
+faire (rendre gorge) à (cible)
+faire (signe) à (cible)
+faire (un clin d'œil) à (cible)
+jeter (un œil) à (cible)
+mettre (un terme) à (cible)
+nuire à (cible)
+penser à (cible)
+porter (atteinte) à (cible)
+porter (chance) à (cible)
+porter (la poisse) à (cible)
+porter (secours) à (cible)
+poser (problème) à (cible)
+prendre (part) à (cible)
+prédire (l'avenir) à (cible)
+prêter (l'oreille) à (cible)
+recourir à (cible)
+rendre (hommage) à (cible)
+renoncer à (cible)
+ressembler à (cible)
+réagir à (cible)
+répondre à (cible)
+résister à (cible)
+s'abonner à (cible)
+s'appuyer à (cible)
+s'associer à (cible)
+s'attacher à (cible)
+s'attaquer à (cible)
+s'attendre à (cible)
+s'opposer à (cible)
+se consacrer à (cible)
+se limiter à (cible)
+se mesurer à (cible)
+se référer à (cible)
+se vouer à (cible)
+songer à (cible)
+souscrire à (cible)
+succéder à (cible)
+survivre à (cible)
+tenir (compagnie) à (cible)
+tenir (tête) à (cible)
+tourner (le dos) à (cible)
+trinquer à (cible)
+téléphoner à (cible)
+échapper à (cible)
+
+--- AFFICHAGE DE LA LISTE DES 41 VERBES (suivis de la préposition DE) ---
+
+accoucher de (cible)
+approcher de (cible)
+avoir (besoin) de (cible)
+avoir (envie) de (cible)
+disposer de (cible)
+douter de (cible)
+débattre de (cible)
+dépendre de (cible)
+faire (fi) de (cible)
+hériter de (cible)
+médire de (cible)
+parler de (cible)
+prendre (conscience) de (cible)
+prendre (note) de (cible)
+prendre (soin) de (cible)
+profiter de (cible)
+provenir de (cible)
+rêver de (cible)
+s'approcher de (cible)
+s'armer de (cible)
+s'enorgueillir de (cible)
+s'inspirer de (cible)
+s'occuper de (cible)
+s'équiper de (cible)
+s'étonner de (cible)
+se débarrasser de (cible)
+se détourner de (cible)
+se gaver de (cible)
+se lasser de (cible)
+se moquer de (cible)
+se munir de (cible)
+se méfier de (cible)
+se passer de (cible)
+se plaindre de (cible)
+se priver de (cible)
+se rapprocher de (cible)
+se servir de (cible)
+se souvenir de (cible)
+tirer (parti) de (cible)
+vouloir (entendre parler) de (cible)
+vouloir (parler) de (cible)
+
+--- AFFICHAGE DE LA LISTE DES 59 VERBES (suivis de la préposition SUR) ---
+
+agir sur (cible)
+appuyer sur (cible)
+atterrir sur (cible)
+bloquer sur (cible)
+buter sur (cible)
+cogner sur (cible)
+compter sur (cible)
+crier (haro) sur (cible)
+empiéter sur (cible)
+faire (l'impasse) sur (cible)
+faire (main basse) sur (cible)
+faire (une croix) sur (cible)
+fermer (les yeux) sur (cible)
+garder (l'œil) sur (cible)
+glisser sur (cible)
+grimper sur (cible)
+influer sur (cible)
+insister sur (cible)
+lésiner sur (cible)
+mettre (la main) sur (cible)
+mettre (le paquet) sur (cible)
+miser sur (cible)
+monter sur (cible)
+méditer sur (cible)
+parier sur (cible)
+pisser sur (cible)
+prendre (appui) sur (cible)
+prendre (exemple) sur (cible)
+prendre (l'ascendant) sur (cible)
+rebondir sur (cible)
+rejeter (la faute) sur (cible)
+reposer sur (cible)
+reprendre (l'avantage) sur (cible)
+régner sur (cible)
+s'acharner sur (cible)
+s'appuyer sur (cible)
+s'extasier sur (cible)
+s'interroger sur (cible)
+s'étendre sur (cible)
+se baser sur (cible)
+se calquer sur (cible)
+se défouler sur (cible)
+se jeter sur (cible)
+se lamenter sur (cible)
+se poster sur (cible)
+se précipiter sur (cible)
+se rabattre sur (cible)
+se reposer sur (cible)
+se ruer sur (cible)
+se tenir sur (cible)
+se venger sur (cible)
+tabler sur (cible)
+taper sur (cible)
+tomber sur (cible)
+travailler sur (cible)
+trébucher sur (cible)
+vomir sur (cible)
+être (en avance) sur (cible)
+être (en retard) sur (cible)
+
+--- AFFICHAGE DE LA LISTE DES 33 VERBES (+ objet + AVEC + objet) ---
+
+aligner (cible1) avec (cible2)
+aplatir (cible1) avec (cible2)
+associer (cible1) avec (cible2)
+ausculter (cible1) avec (cible2)
+casser (cible1) avec (cible2)
+combiner (cible1) avec (cible2)
+comparer (cible1) avec (cible2)
+confondre (cible1) avec (cible2)
+décorer (cible1) avec (cible2)
+défendre (cible1) avec (cible2)
+envelopper (cible1) avec (cible2)
+filtrer (cible1) avec (cible2)
+fouetter (cible1) avec (cible2)
+frapper (cible1) avec (cible2)
+frotter (cible1) avec (cible2)
+gratter (cible1) avec (cible2)
+lier (cible1) avec (cible2)
+marier (cible1) avec (cible2)
+masquer (cible1) avec (cible2)
+mesurer (cible1) avec (cible2)
+mettre (en contact) (cible1) avec (cible2)
+mélanger (cible1) avec (cible2)
+nettoyer (cible1) avec (cible2)
+nouer (cible1) avec (cible2)
+permuter (cible1) avec (cible2)
+pourchasser (cible1) avec (cible2)
+presser (cible1) avec (cible2)
+raper (cible1) avec (cible2)
+servir (cible1) avec (cible2)
+trahir (cible1) avec (cible2)
+transpercer (cible1) avec (cible2)
+tresser (cible1) avec (cible2)
+utiliser (cible1) avec (cible2)
+
+--- AFFICHAGE DE LA LISTE DES 28 VERBES (+ objet + ET + objet) ---
+
+additionner (cible1) et (cible2)
+agglomérer (cible1) et (cible2)
+assembler (cible1) et (cible2)
+associer (cible1) et (cible2)
+comparer (cible1) et (cible2)
+confondre (cible1) et (cible2)
+confronter (cible1) et (cible2)
+conjuguer (cible1) et (cible2)
+considérer (comme égaux) (cible1) et (cible2)
+différencier (cible1) et (cible2)
+disjoindre (cible1) et (cible2)
+dissocier (cible1) et (cible2)
+distinguer (cible1) et (cible2)
+emberlificoter (cible1) et (cible2)
+emmêler (cible1) et (cible2)
+faire (combattre) (cible1) et (cible2)
+joindre (cible1) et (cible2)
+mettre (en concurrence) (cible1) et (cible2)
+mettre (en opposition) (cible1) et (cible2)
+mettre (face à face) (cible1) et (cible2)
+mélanger (cible1) et (cible2)
+opposer (cible1) et (cible2)
+prendre (pour modèles) (cible1) et (cible2)
+rapprocher (cible1) et (cible2)
+rassembler (cible1) et (cible2)
+réunir (cible1) et (cible2)
+séparer (cible1) et (cible2)
+unir (cible1) et (cible2)
+
+--- AFFICHAGE DE LA LISTE DES 117 VERBES (suivis d'un lieu) ---
+
+aller (lieu)
+aller (en avion) (lieu)
+aller (en train) (lieu)
+aller (en vélo) (lieu)
+apparaître (lieu)
+arriver (lieu)
+atterrir (lieu)
+camper (lieu)
+chercher (refuge) (lieu)
+conduire (lieu)
+croupir (lieu)
+demander (l'asile politique) (lieu)
+demeurer (lieu)
+descendre (lieu)
+dormir (lieu)
+débarquer (lieu)
+débouler (lieu)
+déferler (lieu)
+défiler (lieu)
+dégringoler (lieu)
+déguerpir (lieu)
+dériver (lieu)
+emménager (lieu)
+entrer (lieu)
+exercer (le pouvoir) (lieu)
+faire (escale) (lieu)
+faire (fausse route) (lieu)
+faire (tache) (lieu)
+farfouiller (lieu)
+ficher (le camp) (lieu)
+filer (lieu)
+foncer (lieu)
+fouiner (lieu)
+fuir (lieu)
+galoper (lieu)
+glisser (lieu)
+grouiller (lieu)
+habiter (lieu)
+intervenir (lieu)
+loger (lieu)
+mariner (lieu)
+mettre (les bouts) (lieu)
+moisir (lieu)
+monter (lieu)
+nager (lieu)
+naviguer (lieu)
+partir (lieu)
+partir (en vacances) (lieu)
+passer (lieu)
+patauger (lieu)
+patrouiller (lieu)
+plonger (lieu)
+poireauter (lieu)
+prendre (racine) (lieu)
+rappliquer (lieu)
+repartir (lieu)
+rester (lieu)
+resurgir (lieu)
+retourner (lieu)
+revenir (lieu)
+résider (lieu)
+s'agglutiner (lieu)
+s'embourber (lieu)
+s'enfuir (lieu)
+s'enliser (lieu)
+s'exiler (lieu)
+s'incruster (lieu)
+s'installer (lieu)
+se barrer (lieu)
+se cacher (lieu)
+se faire (attendre) (lieu)
+se faire (catapulter) (lieu)
+se faire (conduire) (lieu)
+se faire (déposer) (lieu)
+se faire (la malle) (lieu)
+se faufiler (lieu)
+se garer (lieu)
+se gauffrer (lieu)
+se masser (lieu)
+se perdre (lieu)
+se placer (lieu)
+se planter (lieu)
+se pointer (lieu)
+se poser (lieu)
+se précipiter (lieu)
+se rendre (lieu)
+se retrouver (lieu)
+se ruer (lieu)
+se réfugier (lieu)
+se situer (lieu)
+se tailler (lieu)
+se tenir (lieu)
+se terrer (lieu)
+se transporter (lieu)
+se trimbaler (lieu)
+se trouver (lieu)
+se téléporter (lieu)
+se vautrer (lieu)
+sombrer (lieu)
+sortir (lieu)
+squatter (lieu)
+stagner (lieu)
+stationner (lieu)
+surgir (lieu)
+séjourner (lieu)
+tenir (conseil) (lieu)
+tomber (lieu)
+toucher (terre) (lieu)
+travailler (lieu)
+trouver (refuge) (lieu)
+venir (lieu)
+vivre (lieu)
+émigrer (lieu)
+établir (domicile) (lieu)
+établir (le campement) (lieu)
+être (lieu)
+être (en exil) (lieu)
+
+--- AFFICHAGE DE LA LISTE DES 702 SUJETS (noms communs) ---
+
+académicien (académicienne)
+acrobate de cirque
+acteur de films pornographiques (actrice de films pornographiques)
+acteur (actrice)
+actionnaire
+activiste
+adhérent(e)
+adolescent(e)
+adulte
+agent d'assurances
+agent de police
+agent double
+agent immobilier
+agent secret
+agent
+agitateur (agitatrice)
+agriculteur (agricultrice)
+aide-soignant(e)
+alcoolique
+allemand(e)
+allumeur de réverbères
+altermondialiste
+amant(e)
+amateur (amatrice)
+ambulancier (ambulancière)
+ami(e)
+amiral
+américain(e)
+anachorète
+anarchiste
+ancêtre
+andouille
+anesthésiste
+ange gardien
+ange
+animateur de centre aéré (animatrice de centre aéré)
+animateur de colonie de vacances (animatrice de colonie de vacances)
+anorexique
+anthropophage
+anthropopithèque
+antimilitariste
+apatride
+apprenti
+apôtre
+arabe
+arbitre
+archiduc (archiduchesse)
+architecte
+archéologue
+aristocrate
+armateur
+arnaqueur (arnaqueuse)
+artisan
+artiste
+assaillant(e)
+assassin
+assesseur
+assistant(e)
+association
+assureur
+astronome
+astrophysicien
+athlète de haut niveau
+athée
+audio-prothésiste
+australopithèque
+auteur de science-fiction
+autochtone
+automobiliste
+avocat(e)
+bandit
+banquier (banquière)
+baron (baronne)
+belge
+belligérant(e)
+berger (bergère)
+binoclard(e)
+birman(e)
+blaireau
+blessé de guerre
+bonze
+botaniste
+boucher
+bouddhiste
+bouffon
+bougre (bougresse)
+bouilleur de cru
+bourgeois (bourgeoise)
+bouseux (bouseuse)
+brancardier
+braqueur de banques
+bretteur
+bricoleur du dimanche
+brigand
+brute
+bureaucrate
+bébé
+bénévole
+bûcheron
+cadre supérieur
+caissier (caissière)
+calife
+cancre
+cancérologue
+candidat(e)
+cantatrice
+capitaine
+cartomancien (cartomancienne)
+cascadeur (cascadeuse)
+casseur
+cavalier (cavalière)
+caïd
+champion de tir (championne de tir)
+chanteur de salle de bain
+charcutier
+charlatan
+charpentier
+chasseur alpin
+chasseur
+chauffard
+chauffeur de salle
+chauffeur routier
+chef d'entreprise
+chef d'orchestre
+chef de cuisine
+cheminot
+chercheur (chercheuse)
+chinois (chinoise)
+chocolatier
+choriste
+chrétien (chrétienne)
+chômeur (chômeuse)
+cinéphile
+citoyen (citoyenne)
+clandestin
+clarinettiste
+client(e)
+clochard(e)
+clown
+cobaye
+cocher
+coiffeur (coiffeuse)
+collaborateur (collaboratrice)
+collectionneur (collectionneuse)
+collègue de bureau
+collègue
+collégien (collégienne)
+colonel
+colporteur
+combattant(e)
+comique troupier
+commentateur (commentatrice)
+commerçant(e)
+commissaire aux comptes
+commissaire de police
+communiste
+compagnon (compagne)
+compositeur (compositrice)
+comptable
+compère (commère)
+compétiteur
+concierge
+concurrent(e)
+connasse
+conscrit(e)
+conseiller (conseillère)
+conspirateur (conspiratrice)
+consultant(e)
+contribuable
+copain (copine)
+copilote
+corse
+courtier
+courtisan(e)
+couturier (couturière)
+cow-boy
+crapule
+criminel de guerre
+critique de films
+croque-mort
+croupier (croupière)
+cruciverbiste
+créature
+crétin
+cycliste
+cyclomotoriste
+cyclope
+célibataire
+célébrité
+danseur (danseuse)
+derviche
+descendant des incas (descendante des incas)
+dessinateur (dessinatrice)
+diacre
+dilettante
+diplomate
+directeur de cabinet (directrice de cabinet)
+directeur (directrice)
+dirigeant(e)
+dissident(e)
+donateur (donatrice)
+donneur d'organes (donneuse d'organes)
+douanier (douanière)
+doxographe
+druide (druidesse)
+duc (duchesse)
+déglingué
+délinquant(e)
+délégué du personnel (déléguée du personnel)
+démineur
+démon
+déménageur
+député(e)
+détenu(e)
+développeur
+emmerdeur (emmerdeuse)
+empereur (impératrice)
+encyclopédiste
+enfant
+enseignant(e)
+entité
+entomologiste
+entraîneur (entraîneuse)
+entrepreneur
+entreprise
+ergonome
+esclave
+espion (espionne)
+esprit
+esquimau (esquimaude)
+esthète
+expert(e)
+explorateur (exploratrice)
+extra-terrestre
+exégète
+fabuliste
+facteur
+fakir
+fantassin
+fantôme
+faussaire
+feignant(e)
+femme de ménage
+femme
+ferrailleur
+figurant(e)
+fille
+fillette
+filou
+fiscaliste
+flamand(e)
+fleuriste
+flibustier
+flic
+flutiste
+fonctionnaire
+formateur (formatrice)
+fou (folle)
+fournisseur
+franc-maçon (franc-maçonne)
+français (française)
+fraudeur (fraudeuse)
+frimeur (frimeuse)
+fumeur (fumeuse)
+fumiste
+funambule
+féal (féale)
+fée
+félon
+galopin
+gamin(e)
+garagiste
+garde champêtre
+garde du corps
+gardien de but
+gardien de phare
+garçon
+gastro-entérologue
+gendarme
+gigolo
+gitan(e)
+gladiateur
+glandeur (glandeuse)
+gnome
+goinfre
+golfeur (golfeuse)
+gondolier
+goujat
+gourou
+gouverneur
+graphiste
+gredin
+greffier (greffière)
+grossiste
+groupe
+gréviste
+gueux (gueuse)
+guichetier (guichetière)
+guignol
+guitariste
+gymnaste
+géant(e)
+géographe
+gérant(e)
+gérontologue
+gêneur (gêneuse)
+habitant(e)
+haltérophile
+handicapé(e)
+herbivore
+herboriste
+herméneute
+histrion
+hiérarque
+hiérarque
+homme
+hongrois (hongroise)
+horloger (horlogère)
+huissier de justice
+humain
+humoriste
+hurluberlu(e)
+hussard
+hypnotiseur
+hypocrite
+héritier (héritière)
+héros (héroïne)
+hérétique
+hôtesse de l'air
+iconoclaste
+idole
+illuminé(e)
+illusionniste
+illustrateur (illustratrice)
+imbécile
+imitateur (imitatrice)
+imposteur
+inconnu(e)
+indien (indienne)
+indigène
+individu armé
+infirmier (infirmière)
+informaticien
+ingénieur
+inspecteur (inspectrice)
+instituteur (institutrice)
+instructeur (instructrice)
+insurgé(e)
+intelligence artificielle
+interlocuteur (interlocutrice)
+internaute
+intrus
+investigateur (investigatrice)
+invité(e)
+italien (italienne)
+ivrogne
+japonais (japonaise)
+jardinier (jardinière)
+jongleur (jongleuse)
+joueur d'accordéon (joueuse d'accordéon)
+joueur de ping-pong (joueuse de ping-pong)
+joueur de poker (joueuse de poker)
+joueur (joueuse)
+journaliste
+juge d'instruction
+juge de touche
+juge
+juif (juive)
+juré(e)
+justicier (justicière)
+kamikaze
+laborantin(e)
+lanceur de couteaux
+laquais
+larbin
+laveur de carreaux
+libraire
+limier
+livreur
+locataire
+loup-garou
+lutin
+lycéen (lycéenne)
+lyonnais (lyonnaise)
+magicien (magicienne)
+magistrat(e)
+magnétiseur
+magouilleur
+maire
+majordome (soubrette)
+malade
+malandrin
+malfrat
+manchot
+manifestant(e)
+manipulateur (manipulatrice)
+mannequin
+manutentionnaire
+maquettiste
+marabout
+maraudeur
+marchand d'esclaves
+marchand de tapis (marchande de tapis)
+margoulin
+marin
+marquis (marquise)
+marseillais (marseillaise)
+martyr(e)
+masseur-kinésithérapeute
+mathématicien (mathématicienne)
+maçon
+maître d'hôtel
+maître (maîtresse)
+maître-nageur
+maître-saucier
+mec (nana)
+membre du parti
+membre du personnel
+mendiant(e)
+mentaliste
+menteur (menteuse)
+mercenaire
+milicien (milicienne)
+militant(e)
+milliardaire
+millionnaire
+mime
+ministre
+moine franciscain (nonne)
+moine shaolin
+moine (bonne sœur)
+moniteur d'auto-école (monitrice d'auto-école)
+moniteur de parapente (monitrice de parapente)
+monstre
+mort-vivant
+motard
+motocycliste
+moussaillon
+multi-récidiviste
+musicien (musicienne)
+musulman(e)
+mutant(e)
+mère de famille
+médecin
+ménestrel
+métaphysicien (métaphysicienne)
+môme
+nain(e)
+nancéien (nancéienne)
+naufragé(e)
+noctambule
+non-fumeur (non-fumeuse)
+notaire
+nourrice
+nourrisson
+nouveau-né
+numismate
+nymphe
+névropathe
+obsédé (nymphomane)
+occultiste
+officier supérieur
+ogre (ogresse)
+oligarque
+opérateur (opératrice)
+orateur (oratrice)
+ordure
+organisateur (organisatrice)
+organisme (organisation)
+orphelin(e)
+orthophoniste
+ostréiculteur (ostréicultrice)
+ostéopathe
+oto-rhino-laryngologiste
+ouvrier (ouvrière)
+pacifiste
+palefrenier
+paléontologue
+pantin
+parachutiste
+parisien (parisienne)
+partenaire
+participant(e)
+particulier
+partisan(e)
+passager
+passant(e)
+pasteur
+patient(e)
+patineur (patineuse)
+patron
+paysan (paysanne)
+païen (païenne)
+peintre en bâtiment
+peintre
+penseur
+pensionnaire
+percussionniste
+personnage
+personnalité
+personne
+pharaon
+philatéliste
+philologue
+philosophe
+photographe
+physicien (physicienne)
+pianiste
+pigeon
+pigiste
+pignouf
+pilier de bar
+pilote de ligne
+pilote de rallye
+pirate
+pithécanthrope
+pitre
+piéton
+plaignant(e)
+plaisantin
+pleurnichard
+plombier
+plongeur (plongeuse)
+pneumologue
+poissonnier (poissonnière)
+policier
+politicien (politicienne)
+pollueur (pollueuse)
+polytechnicien (polytechnicienne)
+pompier
+porteur
+portier
+portugais (portugaise)
+postulant(e)
+pote
+potier
+poète
+prestidigitateur (cartomancienne)
+primate
+prince (princesse)
+prisonnier politique (prisonnière politique)
+procureur
+professeur d'anglais
+professeur d'éducation physique
+professeur de français
+professeur de ¥oga
+professionnel (professionnelle)
+promeneur (promeneuse)
+propriétaire de casino
+propriétaire
+prostituée
+protagoniste
+protestant(e)
+proxénète (vamp)
+prédateur
+prédicateur (prédicatrice)
+préfet
+prélat
+prétendant(e)
+prêtre (prêtresse)
+psychanaliste
+psychologue du travail
+psychopathe
+punk
+puériculteur (puéricultrice)
+pâtissier (pâtissière)
+québecois (québecoise)
+ramasseur de balles (ramasseuse de balles)
+rapace
+rebelle
+recteur
+remplaçant(e)
+rentier (rentière)
+rescapé(e)
+responsable
+rigolo
+robot
+roi (reine)
+russe
+rédacteur (rédactrice)
+réfugié(e)
+rénégat
+résistant(e)
+saint(e)
+salarié(e)
+salaud
+salopard
+saltimbanque
+samouraï (geisha)
+sauvage
+sauveteur
+saxophoniste
+schoïnopenxatophile
+scientifique
+scout
+scribe
+sculpteur
+secrétaire
+serbe
+serf
+serveur (serveuse)
+sidérurgiste
+singe
+skieur (skieuse)
+socialiste
+sociologue
+sociopathe
+société
+soldat
+sommelier (sommelière)
+sorcier (sorcière)
+souffleur de verre
+sous-fifre
+sous-préfet
+souverain(e)
+spectateur (spectatrice)
+sportif (sportive)
+spécialiste
+spéculateur (spéculatrice)
+spéléologue
+stagiaire
+stoïcien (stoïcienne)
+sténodactylographe
+sultan
+sumo
+survivant(e)
+suzerain
+syndicaliste
+séducteur (séductrice)
+sénateur (sénatrice)
+sénégalais (sénégalaise)
+taliban
+taoïste
+tatoueur (tatoueuse)
+taulard(e)
+taxidermiste
+technocrate
+terroriste
+testeur de jeux vidéo
+thérapeute
+tireur d'élite
+tordu(e)
+touriste
+toxicomane
+trafiquant d'armes
+trafiquant de cocaïne
+traitre
+trapéziste
+travesti
+tricheur (tricheuse)
+troll
+troubadour
+trublion
+tueur à gages (tueuse à gages)
+tzigane
+ténor (diva)
+universitaire
+usager des transports en commun
+usager (usagère)
+vacancier (vacancière)
+vagabond
+vampire
+vandale
+victime
+vieillard
+vigile de supermarché
+vigneron
+violoncelliste
+virtuose
+visiteur
+voleur de poules
+voleur (voleuse)
+voyageur (voyageuse)
+voyeur (voyeuse)
+voyou
+végétarien (végétarienne)
+vétéran
+zombie
+zouave
+âme
+éboueur
+écologiste
+écrivain
+écuyer (écuyère)
+éditorialiste
+électeur (électrice)
+électricien (électricienne)
+éleveur de porcs
+élu(e)
+élève
+émigrant(e)
+éminence
+émir
+émissaire
+énarque
+énergumène
+épicurien (épicurienne)
+éradicateur
+étudiant(e)
+évèque
+être
+œnologue
+
+--- AFFICHAGE DE LA LISTE DES 289 QUALIFICATIFS (sujet) ---
+
+abonné au Monde Diplomatique
+abonné à N chaînes de télévision
+abruti
+accoutumé au luxe
+acharné
+adipeux
+affamé
+agrafé au mur
+agressif
+agé de N ans
+ahuri
+allergique au pollen
+allergique au soleil
+allergique aux poils de loutre
+amateur
+ambulant
+amputé de la rate
+amputé des genous
+analphabète
+androgyne
+anormalement poilu
+aphone
+armé jusqu'aux dents
+arrogant
+ashkénaze
+assis
+assis dans la position du lotus
+asthmatique
+athlétique
+atrocement mutilé
+au bord de l'auto-combustion
+au bord du suicide
+au crâne rasé
+au grand cœur
+au groin gluant
+aux dents pourries
+aux doigts palmés
+aux intentions incertaines
+aux intentions pacifiques
+aux longs cils
+aux mœurs spartiates
+aux pieds fourchus
+aux pupilles dilatées
+aux traits porcins
+aux yeux cernés
+ayant de graves antécédents psychiatriques
+ayant survécu N fois à la foudre
+bantou
+barbu
+bavard
+bavarois
+belliqueux
+bipolaire
+boiteux
+bossu
+botswanais
+boulimique
+bourré d'antibiotiques
+breton
+bénévole
+bête à manger du foin
+candide
+cannibale
+capitaliste
+catatonique
+charismatique
+chauve
+circonspect
+communiste
+complètement taré
+condamné à perpétuité
+confirmé
+congelé
+consterné
+corpulent
+cruel
+cyclothymique
+cynique
+d'autrefois
+d'origine slave
+daltonien
+de carnaval
+de droite
+de gauche
+de mauvaise humeur
+de passage
+diplômé
+disert
+dispensé de sport
+disponible
+décoiffé
+décérébré
+dépendant aux anti-dépresseurs
+désespéré
+désolé
+détendu
+déterminé à aller jusqu'au bout
+effronté
+en RTT
+en armure de combat
+en bermuda
+en bonne santé
+en chaussettes
+en cire
+en contrat de qualification
+en costume du dimanche
+en costume traditionnel
+en costume trois-pièces
+en délire
+en déshérence
+en détresse
+en extase
+en grève de la faim depuis N jours
+en herbe
+en liberté conditionnelle
+en manque d'action
+en mission
+en monocycle
+en portage salarial
+en position fœtale
+en possession d'une carte de membre du parti communiste
+en retraite
+en rut
+en sommeil polyphasique
+en surpoids
+en tenue de camouflage
+en tenue de soirée
+en voyage
+en vélo
+enceinte
+endormi
+engagé
+enragé
+enrhumé
+ensablé jusqu'au cou
+entièrement couvert de plumes
+entouré de N gardes du corps
+euphorique
+exalté
+exceptionnel
+exemplaire
+extrêmement frileux
+faisant la queue au guichet B
+folle de joie
+fou de joie
+fétichiste du nombre "N"
+griffu
+grièvement blessé
+guidé par satellite
+génial
+hautain
+hermaphrodite
+hermétique
+hilare
+hirsute
+hypermétrope
+hypocondriaque
+hystérique
+hélitreuillé
+hémophile
+idéaliste
+illettré
+imaginaire
+impatient
+inactif
+incarcéré pour meurtre
+inconnu
+inscrit au club de sumo
+inscrit avant le 11 mars inclus
+insomniaque
+inspiré
+intérimaire
+invaincu en N rencontres
+invisible
+irréaliste
+itinérant
+ivre mort
+joufflu
+jovial
+laconique
+laotien
+loquace
+légendaire
+mal coiffé
+mal élevé
+maladroit
+malgache
+mandaté par le gouvernement
+mandchou
+maquillée et coiffée
+marxiste
+masqué
+mercenaire
+mort-vivant
+moustachu
+muni d'un certificat en bonne et due forme
+myope
+mythique
+mélancolique
+narquois
+nourri d'algues vertes
+névrosé
+obnubilé par la passion
+obséquieux
+obtus
+obèse
+opiniâtre
+optimiste
+ougandais
+outrageusement dénudé
+ouzbèque
+par intérim
+parisien
+passionné d'histoire
+perclus
+perfectionniste
+pessimiste
+pointilleux
+portant le dossard "N"
+porteur du virus de la grippe A
+porté disparu
+possédé par le diable
+poussant des hurlements gutturaux
+presque aveugle
+professionnel
+prognathe
+prolixe
+pyromane
+péremptoire
+rachitique
+relaps
+repu
+richissime
+ridé
+rémunéré à hauteur de N euros par jour
+résigné à mourrir
+rétif
+salement amoché
+sans ambition
+sans défense
+sans histoires
+sans opinions politiques
+sans papiers
+sans scrupules
+senior
+solennel
+somnambule
+sorti du coma depuis N minutes
+sourd-muet
+sous calmants
+sous contrat
+sous haute surveillance
+sous hypnose
+sous-payé
+spécialiste en nouvelles technologies
+stressé
+stérile
+surexcité
+svelte
+sénile
+sépharade
+tatoué
+terre à terre
+titulaire d'une pension de deuxième ou de troisième catégorie
+totalement épanoui
+turc
+un peu coincé
+valétudinaire
+ventripotent
+venu du futur
+versatile
+vertueux
+vivant dans N mètres carrés
+volontaire
+volubile
+végétarien
+vêtu de pétales de roses
+à forte poitrine
+à l'agonie
+à l'article de la mort
+à l'haleine nauséabonde
+à la démarche cavalière
+à la santé fragile
+à la solde de l'ennemi
+à la voix pâteuse
+à lunettes
+à mi-temps
+à moitié endormi
+à pied
+à trois sous
+écervelé
+élevé en plein air
+élégant
+équipé de pied en cap
+ésotérique
+
+--- AFFICHAGE DE LA LISTE DES 1575 OBJETS (noms communs) ---
+
+abcès
+abonnement
+abri
+abricotier
+absence
+académie
+accent
+accessoire
+accident
+accord
+accordéon
+accélérateur de particules
+achat
+acte
+acte manqué
+action
+activité
+addition
+affiche
+affliction
+agrafeuse
+agrume
+aiguille
+aile
+air
+alambic
+alarme
+album de bande dessinée
+algorithme
+aliment
+alizé
+alliance
+allumette
+allégorie
+altimètre
+ambiance
+ambulance
+amende
+amibe
+amitié
+amorce
+amour
+amphibien
+amphithéâtre
+amphore
+amplificateur
+ampoule
+ampoule
+anacoluthe
+ananas
+andouillette
+animal
+anneau
+anniversaire
+annuaire
+année
+antivol
+apostrophe
+appareil photo
+apparition
+arabesque
+araignée
+arbalète
+arbre
+arc
+archipel
+archive
+ardoise
+arme
+arme de destruction massive
+arme à feu
+armistice
+armoire
+armure
+armée
+arquebuse
+arrêt de bus
+artère
+arête
+ascenseur
+asperge
+aspiration
+association de malfaiteurs
+asticot
+astre
+astronef
+astérisque
+astéroïde
+atoll
+attentat
+attribut
+aubergine
+autruche
+aversion
+avion
+axe
+aéroport
+bac à sable
+bagarre
+bain
+bal
+balai
+balance
+balançoire
+balcon
+baleine
+ballade
+balle
+ballon de foot
+banane
+baobab
+bar
+baraque
+barbe
+barbe à papa
+barbichette
+barrage hydro-électrique
+barre
+barre de céréales
+barre de fer
+barricade
+barrique
+base de données
+bassin
+bassine
+bateau
+beignet
+belette
+belvédère
+bermuda
+bibelot
+biberon
+bicyclette
+bide
+bidet
+bidon
+bidonville
+bijou
+bilan
+bilboquet
+bille
+billet de banque
+billevesée
+biniou
+biographie
+bise
+bison
+bistouri
+blanquette de veau
+blessure
+boa
+boisson
+bombe
+bonbon
+bonbonne de gaz
+bon de réduction
+borne
+bosse
+bouc
+bouche
+boucherie
+boucle d'oreille
+bougie
+boulet
+boulette
+boule de cristal
+boule à facettes
+boulon
+bouquin
+boutade
+bouteille
+bouteille de coca
+bouteille de gaz
+boutique
+bouton
+boîte
+boîte de conserve
+boîte de nuit
+bracelet
+bras
+brebis
+bretelle
+brin d'herbe
+brin de muguet
+brique
+briquet
+brise
+brochette
+brochure
+brontosaure
+brosse à dents
+bruit
+buffet
+buisson
+bulbe
+bulldozer
+bulle
+bureau
+buse
+bus
+bâton
+béquille
+bétonneuse
+bœuf
+cabane
+cacahuète
+cachalot
+cachet
+cachette
+cachet d'aspirine
+cactus
+cadavre
+caddie
+cadeau
+cadenas
+cadre
+café
+cagoule
+caisse
+calcul
+calculatrice
+caleçon
+calice
+calèche
+camion
+camp de vacances
+caméléon
+caméra
+canal
+canoë
+canular
+capital
+caprice
+capuche
+capuchon
+capuchon de stylo
+caractère
+carambar
+caramel
+carapace
+caravane
+carburateur
+cargaison
+cargo
+caribou
+caricature
+carnage
+caroncule
+carré
+carte
+carte de crédit
+carte de visite
+carton
+cartouche
+cascade
+case
+casque
+casquette
+casserole
+cassette
+cassoulet
+catapulte
+catastrophe
+catégorie
+cause
+caverne
+ceinture
+cellule
+cendrier
+centre
+centrifugeuse
+cercle
+cercueil
+cerveau
+chacal
+chaise
+chaloupe
+chalumeau
+champ
+champignon
+chance
+chanson
+chant
+chantier
+chapeau
+char
+charge
+chargement
+chariot
+chassis
+chat
+chateau
+chaudière
+chauffe-plats
+chaumière
+chausse-pied
+chaîne
+cheeseburger
+chemin
+cheval
+cheveu
+chien
+chiffre
+chimère
+chique
+chose
+chou
+chute
+château de sable
+chèvre
+ciel
+cigare
+cigarette
+cil
+cinéma
+circulaire
+citron
+citrouille
+clarinette
+classe
+clavier
+clef
+clef USB
+clef à molette
+cliché
+clin d'œil
+cloche
+clochette
+clou
+club de golf
+code
+coffre
+coin
+col
+colibri
+collier
+colline
+colonne
+colonne vertébrale
+coloquinte
+combat
+combinaison
+combustion
+compagnie
+compas
+compilateur
+compilateur
+compilation
+complément
+comprimé
+compte
+compteur
+comptine
+comptoir
+concept
+concile
+condiment
+condition
+connerie
+conquête
+conscience
+consigne
+contact
+contexte
+continent
+contorsion
+contrat
+conversation
+conversion
+copie
+coq
+coquecigrue
+coquelicot
+coquillage
+cor
+corbeille
+corbeille à papier
+corde
+cordon
+cornet
+corne de zébu
+cornichon
+corps
+corpuscule
+cortège
+costume
+coude
+couleur
+coupe
+coup de pied
+cour
+courbe
+courgette
+couronne
+couronne de laurier
+course
+court-circuit
+coussin
+couteau de cuisine
+couvercle
+couverture
+couvre-chef
+crachat
+crampon
+crayon de papier
+crevasse
+cri
+crime
+cristal
+critère
+croix
+croquette pour chats
+croquis
+croyance
+cruche
+crustacé
+crâne
+crécelle
+crédit
+crêpe fourrée
+cube
+culte
+culture
+cure-dents
+cylindre
+câble
+cèdre
+cérémonie
+côté
+cœur
+danger
+date
+deltaplane
+dent
+dermatite
+dessein
+dessin
+destination
+diaphragme
+dictature
+dictionnaire
+dicton
+différence
+dilligence
+dinosaure
+direction
+dirigeable
+disque
+disquette
+disque dur
+dissonance
+distribution
+dithyrambe
+diversion
+dividende
+doctrine
+doigt
+dolmen
+don
+donjon
+dossier
+douleur
+dragon
+drap
+drapeau
+droit
+débit
+débris
+déception
+décharge
+déchet
+décision
+déclaration
+décollage
+décoration
+défaite
+défi
+déflagration
+déguisement
+délice
+démarrage
+dépression
+désastre
+désert
+détonation
+ecchymose
+ectoplasme
+effet
+ellipse
+embarcation
+enclume
+endroit
+engin
+engrais
+environnement
+erreur
+escabeau
+escalator
+escalier
+escarcelle
+escargot
+espace
+esprit
+esquisse
+esquive
+essence
+estafette
+estaminet
+estampe
+estampille
+estomac
+esturgeon
+examen
+example
+exception
+excipient
+exil
+existence
+exonération
+explosion
+exposition
+extrémité
+exégèse
+fable
+face
+faculté
+faille
+faisan
+faisceau
+fait
+farandole
+farce
+faribole
+fatrasie
+faute
+fauteuil
+faux
+fax
+façade
+fenêtre
+fer à cheval
+fer à repasser
+fesse
+feuille
+feu
+fichier
+fifre
+figure
+figure de style
+fil
+filet
+filet de morue
+filière
+film
+filon
+filtre
+firme
+fissure
+flamme
+flaque d'eau
+flingue
+fluide
+flux
+flûte
+fonction
+fonte
+force
+forfait
+format
+formation
+forme
+formulaire
+fort
+forêt
+fosse
+fossile
+fouet
+foulard
+four
+fourchette
+fourmi
+fourmilière
+fournaise
+fourneau
+foyer
+fraise
+frange
+frein
+frelon
+friandise
+frisson
+frite
+friteuse
+froc
+fromage
+fromage de brebis
+fronde
+front
+fruit
+frégate
+fuite
+fumée
+funiculaire
+furet
+fusible
+fémur
+fétiche
+fétu de paille
+fête
+fœtus
+gabarit
+gachette
+gadget
+galaxie
+galette
+galipette
+galurin
+galère
+galéjade
+gamelle
+gant
+gant de boxe
+garage
+garantie
+gare
+gargouille
+garniture
+gauffrette
+gauffre au sucre
+gaz
+gemme
+germe
+geste
+gigot
+girafe
+glace
+glacier
+glapissement
+glaçon
+globe
+globule
+gloire
+glyphe
+gnou
+godasse
+gomme
+gondole
+gonfalon
+gorgée de soda
+gouffre
+gourde
+gourmette
+gousse de vanille
+goutte d'eau
+gouvernement
+grain de riz
+grain de sable
+grappe de raisin
+gratin de choux-fleurs
+grelot
+grenade
+griffe de tigre
+grimace
+grimoire
+guidon
+guimbarde
+guirlande
+guitare
+gâteau
+générateur
+génération
+gîte
+hallebarde
+halo
+hameçon
+hanche
+hangar
+haricot
+haricot vert
+harmonie
+harnais
+harpe
+heaume
+heure
+hibou
+hippocampe
+hippopotame
+histoire
+hiéroglyphe
+hologramme
+honte
+hublot
+humeur
+hutte
+huître
+hypothèse
+hélice
+hélicoptère
+hérésie
+hôpital
+identité
+idée
+illusion
+image
+imbécilité
+imitation
+imperméable
+imposture
+impression
+imprimante
+impulsion
+incendie de forêt
+incident
+incubateur
+indice
+ineptie
+infiltration
+information
+ingrédient
+innondation
+insecte
+insomnie
+inspiration
+instant
+instinct
+institution
+instrument de mesure
+instrument de musique
+intention
+interdiction
+intestin
+inventaire
+invertébré
+isotope
+issue
+itinéraire
+jambe
+jambon
+jante
+jardin
+javelot
+jet d'eau
+jeu
+joint
+joue
+jouet
+jour
+journal
+jugement
+jument
+juridiction
+jus de fruits
+jus
+kaléïdoscope
+kangourou
+kilt
+kimono
+kiosque
+kiwi
+klaxon
+koala
+képi
+laboratoire
+labyrinthe
+lac
+lama
+lame
+lampe
+lampe de poche
+lance
+landau
+langage
+langouste
+langue
+lapin
+lardon
+larme
+larve
+lavabo
+lentille
+lettre
+leurre
+levier
+leçon
+liane
+librairie
+licence
+licorne
+lien
+lieu
+ligament
+ligne
+limite
+linceul
+liqueur
+liquide
+liste
+lit
+litre de pétrole
+livre
+lièvre
+lobe
+locomotive
+logiciel
+loi
+lot
+loupe
+loutre
+lubie
+luciole
+lueur
+luge
+lumière
+lunette
+lustre
+lutte
+lymphocyte
+lyre
+légion
+légume
+macaron
+machin
+machine-outil
+machine
+magouille
+main
+maison
+maladie
+mamelle
+mammifère
+manche
+manche à balai
+mandarine
+mangue
+manie
+manœuvre
+maquette
+marchandise
+marche d'escalier
+marteau
+marécage
+masque
+masque de plongée
+massacre
+masse
+massicot
+mat
+matin
+matière
+matériau
+melon
+membre
+mensonge
+mer
+merde
+merdouille
+meringue
+merveille
+meuble
+meurtre
+miasme
+milieu
+minaret
+mine
+mirador
+miroir
+mise
+missile
+mission
+misère
+mitrailleuse
+mixture
+mocassin
+module
+modèle
+moisissure
+moissonneuse
+mois
+mollusque
+molosse
+molécule
+moment
+monde
+monopole
+montagne
+montgolfière
+montre
+morse
+mortier
+mosquée
+mot
+moteur
+moto
+mouche
+moufle
+moule à gauffres
+moulin
+mousqueton
+mouton
+mouvement
+moyen de transport
+mule
+mur
+musaraigne
+muse
+musette
+musée
+myrtille
+mythe
+mèche
+médicament
+mégot
+mélange
+mélodie
+mélopée
+mélèze
+mérou
+métal
+métier
+mûre
+nacelle
+nappe
+narine
+natte
+nature
+navet
+navette
+navire
+nerf
+nervure
+neurone
+neutron
+nez
+nid
+nid de guêpes
+noix de coco
+noix
+nom
+nombre
+note de musique
+notion
+nouille
+noyau d'olive
+noyau
+nuage
+nuit
+nénuphar
+oasis
+objectif
+objet
+obligation
+observatoire
+obsession
+obstacle
+obus
+obélisque
+occasion
+octave
+octogone
+océan
+ode
+odeur
+oeuf
+oeuf de poisson
+ogive
+ogive nucléaire
+oiseau
+oligo-élément
+olive
+olivier
+ombre
+omelette
+omelette aux champignons
+omoplate
+onde
+ongle
+onglet
+opale
+opportunité
+option
+opuscule
+opéra
+opération
+orage
+ordinateur
+ordre
+oreille
+oreiller
+organe
+organigramme
+orgasme
+orifice
+origine
+ornement
+ornithorynque
+orteil
+os de baleine
+oscilloscope
+os
+oubliette
+oud
+ouragan
+ours
+outil
+outre
+ouvre-boîte
+pain
+paire de ciseaux
+paire de lunettes
+paire de santiags
+pal
+palais
+palet
+palette
+palmipède
+panier
+pantalon
+papille
+papillon
+paquebot
+paquet
+parabole
+paradis
+parapluie
+pardessus
+parenthèse
+parodie
+parquet
+particule
+partie
+passion
+pastèque
+pas
+patate
+pathologie
+patin
+patte
+patère
+paupière
+pays
+pelle
+pelle à tarte
+perche
+percolateur
+perroquet
+perruque
+petit pois
+phacochère
+phallus
+phare
+philosophie
+photo
+photocopie
+phrase
+piano
+pied
+pied de céleri
+pieuvre
+pile
+pillage
+pilon
+pilori
+piment
+pin
+pingouin
+pipe
+pirouette
+piste
+pizza
+pièce
+pièce de monnaie
+piège à cons
+plaine
+plan
+planche
+planche à voile
+plante
+planète
+platane
+plate-forme
+plateau
+plinthe
+plume
+plumeau
+plume de corbeau
+pneu
+pochette
+poids
+poil
+poing
+point
+pointe
+poire
+poireau
+poison
+poisson
+police
+polygone
+polymère
+pomme
+pomme de pin
+pomme de terre
+ponction
+pont-levis
+pont
+port
+porte
+portemanteau
+porte de hangar
+port USB
+possibilité
+poste
+postillon
+posture
+pot
+potence
+potentiomètre
+potiche
+potion
+pot de fromage blanc
+pot de miel
+poubelle
+poulailler
+poule
+poulet
+poulie
+poulpe
+poumon
+poupée
+poussette
+poussin
+poutre
+poutrelle de chantier
+pouvoir
+poêle à frire
+pression
+prix
+problème
+procédure
+procédé
+produit
+produit chimique
+programme
+projet
+promenade
+promesse
+promotion
+proposition
+propriété
+prune
+pré
+prénom
+présentation
+psaume
+puce
+puits
+pulsation
+pulsion
+punition
+pupille
+putois
+pylône
+pyramide
+pâquerette
+pâte
+pâte de fruits
+péché
+pédale
+pédoncule
+péninsule
+pépin
+période
+périscope
+pêche
+quai
+qualité
+quantité
+querelle
+question
+questionnaire
+quignon de pain
+quille
+quête
+radar
+radeau
+ragondin
+rainure
+raison
+rampe
+rang
+rapport
+raquette
+rat
+ratatouille
+ravin
+rayon
+rayon X
+recette de cuisine
+record
+rectangle
+rectification
+redingote
+reflet
+regard
+registre
+regret
+relation
+religion
+remède
+reproche
+représentation
+reptile
+requin
+ressort
+ressource
+retour
+revêtement
+reçu
+rhinocéros
+ricochet
+ristourne
+ritournelle
+robot
+rocher
+roman
+roman d'amour
+roman policier
+rose
+rotule
+roue
+roulette
+roulotte
+route
+rubrique
+rue
+ruine
+ruse
+rustine
+râteau
+réacteur
+réaction
+réalité
+réceptacle
+récepteur
+récipient
+récital
+récompense
+réflexe
+régime
+réplique
+réponse
+résidence
+résidu
+résultat
+réticule
+rétroviseur
+réveil
+révolution
+révélation
+rêve
+rôle
+sablier
+sabot
+sac
+sachet
+sacoche
+sac de charbon de bois
+sac de couchage
+sac de plâtre
+sac à dos
+sac à main
+saison
+salade de fruits
+salade de pommes de terre
+salaire
+salamandre
+saloperie
+sanction
+sandalette
+sapin de noël
+sardine
+satellite
+saucisse
+saucisson
+saxophone
+scalpel
+scandale
+scaphandre
+scaphandre de plongée
+schéma
+scie
+secousse
+secret
+sein
+semaine
+sensation
+sens
+sentiment
+seringue
+serpent
+serrure
+service
+sextant
+sifflet
+signal
+signe
+silence
+silhouette
+silo
+simulacre
+siphon
+sirop
+situation
+siècle
+ski
+soliflore
+solution
+sommet
+son
+sonde
+sonorité
+sorbet
+souci
+souffle
+soufflet
+souhait
+soupape
+soupir
+soustraction
+soutien-gorge
+souvenir
+spaghetti
+spatule
+spectacle
+spectre
+sphynx
+sphère
+spirale
+station orbitale
+statue
+statut
+steack d'autruche
+stigmate
+stock
+strapontin
+stratagème
+stratégie
+structure
+style
+stégosaure
+stéthoscope
+substance
+substitut
+substrat
+suc
+succès
+sucre
+sucre d'orge
+sujet
+super-pouvoir
+supplique
+support
+suppression
+surface
+surprise
+symbole
+symphonie
+synapse
+syndicat
+sèche-cheveux
+sélection
+table
+tableau
+tablette
+tablier
+tabou
+tabouret
+talon
+tambour
+tamis
+tapis
+tarentule
+tarif
+tarte
+tarte aux quetsches
+tartine
+teinte
+temple
+tendance
+tendon
+tentacule
+tentation
+tentative
+tente
+tenture
+tesson de bouteille
+texte
+thon
+thème
+thèse
+théière
+théorie
+tibia
+tige
+tignasse
+timbale
+tintamarre
+tiroir
+toboggan
+toge
+toile
+tombe
+tonneau
+torchon
+torgnole
+tornade
+torpille
+torsade
+torse
+tortue
+tour
+tour
+tourbillon
+tournevis
+tourniquet
+tourte
+tracas
+tracteur
+train
+trait
+trait d'union
+trampoline
+tranche de lard fumé
+transaction
+transistor
+trapèze
+traquenard
+tremplin
+triangle
+trident
+tringle à rideaux
+trirème
+triton
+trognon de pomme
+trompe
+trompette
+tronc d'arbre
+tronçonneuse
+trophée
+trou
+truc
+tuba
+tube
+tubercule
+tube de dentifrice
+tubulure
+tuile
+tulipe
+tunnel
+turbine
+tuyau
+téléphone
+télévision
+tétine
+têtard
+tête
+ulcère
+uniforme
+union
+unité
+univers
+urgence
+usage
+usine
+ustensile
+ustensile de cuisine
+utopie
+vacarme
+vache
+vacherie
+vaisseau
+valeur
+variante
+vautour
+veine
+ventouse
+ventre
+version
+vertu
+ver de terre
+veste
+vestibule
+vibration
+victoire
+vielle
+vignoble
+village
+ville
+violoncelle
+virus
+visage
+vision
+vis
+vitrine
+voie
+voiture
+voix
+volant
+volcan
+volet
+volonté
+véhicule
+vélo
+vélocipède
+vérité
+vêtement
+vœu
+wagon
+wapiti
+xylophone
+yaourt
+yourte
+zone
+zoo
+zèbre
+zébu
+âge
+âme
+échange
+échantillon de carburant
+écharpe
+échelle
+échiquier
+éclair
+éclair au chocolat
+éclat d'obus
+écosystème
+écran
+écran de fumée
+écrou
+église
+électron
+élucubration
+élément
+éléphant
+émotion
+énergie
+épaule
+épave
+épi
+épice
+épicerie
+épicéa
+épiderme
+épidémie
+épi de blé
+épi de maïs
+épuisette
+épée
+équation
+équerre
+étable
+étagère
+étalon
+étape
+état
+éternuement
+étiquette
+étui
+évier
+événement
+être monocellulaire
+île
+œil
+œuvre
+
+--- AFFICHAGE DE LA LISTE DES 454 QUALIFICATIFS (objet) ---
+
+"surprise"
+abdominal
+abscons
+absolu
+absurde
+absurde
+accessoire
+acheté en grande surface
+acheté à crédit
+adorable
+affreux
+agé de N mois
+alimentaire
+allumé
+amer
+amphibie
+amère
+ancien
+animé
+anthropomorphique
+apocalyptique
+apprivoisé
+approximatif
+arboricole
+archaïque
+arctique
+aromatique
+artificiel
+ascensionnel
+astringent
+asynchrone
+au gingembre
+automatique
+autre
+bancal
+beau / bel
+belle
+bigarré
+biodégradable
+bizarre
+blanc
+bleu
+bon
+bref
+brisé
+brève
+caché
+carnivore
+carré
+catastrophique
+caverneux
+central
+centrifuge
+chaleureux
+chargé d'électricité statique
+chaud
+chauffé à N degrés
+chimique
+chronique
+circulaire
+classique
+classé "secret défense"
+clignotant
+cloné
+clouté
+cloué au sol
+cocasse
+cohérent
+comestible
+complexe
+composé de N pour cent d'azote
+confortable
+congelé
+constitué de N pièces articulées
+contaminé
+contradictoire
+contre-nature
+court
+coûteux
+crapuleux
+creux
+critique
+cru
+cruel
+cuit
+célèbre
+cérébral
+d'origine inconnue
+dangereux
+dangereux
+dansant
+de N centimètres d'épaisseur
+de N mètres d'envergure
+de base
+de carnaval
+de collection
+de combat
+de compétition
+de cérémonie
+de fabrication scandinave
+de fortune
+de l'espace
+de rechange
+de secours
+de substitution
+dernier
+destitué
+disponible
+dodu
+double
+douloureux
+doux
+droit
+dur
+durable
+dynamique
+décoloré
+décomposé
+décongelé
+défectueux
+définitif
+dégueulasse
+dégénératif
+délicatement manufacturé
+démontable
+efficace
+en bois
+en carton
+en cristal
+en fonte
+en forme de courge
+en forme de cœur
+en forme de tourte
+en gestation
+en lambeaux
+en location
+en marbre
+en mutation
+en plastique
+en poudre
+en sulfate de zinc
+en tranches
+en vente dans N pays
+en voie d'extinction
+endommagé
+ensorcelé
+enterré à N mètres de profondeur
+entier
+entièrement rénové
+escamotable
+essentiel
+excellent
+exceptionnel
+exotique
+explosif
+expérimental
+exquis
+externe
+extraordinaire
+extraordinaire
+factice
+facultatif
+falsifié
+fameux
+farci aux olives
+farineux
+fatal
+faux
+fermé
+flexible
+fluorescent
+fonctionnel
+fondamental
+fortuit
+fragile
+fragmentaire
+frais
+froid
+futur
+garanti à vie
+gauche
+gazeux
+gentil
+giratoire
+glauque
+glorieux
+gonflable
+grand
+gras
+grave
+gros
+grotesque
+géant
+générique
+génétiquement modifié
+halal
+hallucinant
+hallucinogène
+historique
+honteux
+horrible
+hydraulique
+hypothéqué
+hypothétique
+hélicoïdal
+idyllique
+idéal
+idéologique
+ignifugé
+illogique
+illusoire
+illégal
+imaginaire
+imminent
+immonde
+impensable
+important
+impossible
+improbable
+improvisé
+inadapté
+indestructible
+indispensable
+ineffable
+inerte
+inespéré
+innocent
+instable
+insupportable
+intangible
+interdit
+interdit aux enfants de moins de N ans
+interne
+introspectif
+intérieur
+inutile
+inventé
+invisible
+invisible
+inévitable
+irréel
+jeune
+joli
+joyeux
+latéral
+liquide
+local
+long
+lumineux
+légal
+léger
+légèrement phosphorescent
+macabre
+magnifique
+majestueux
+malodorant
+mental
+merveilleux
+mi-cuit
+minuscule
+mobile
+moderne
+modifié
+modéré
+molle
+mondial
+monté sur ressorts
+mortel
+motorisé
+mou
+multicolore
+municipal
+musical
+mystique
+mécanique
+méchant
+médical
+médiocre
+métallique
+métaphorique
+nappé de chocolat
+national
+naturel
+noir
+normal
+nouveau
+nouveau / nouvel
+obscur
+obsolète
+opposable
+optique
+ordinaire
+organique
+ostentatoire
+oublié
+ouvert
+paradisiaque
+paramilitaire
+parfait
+parfait
+parfumé
+partiel
+partiellement évidé
+peint à la bombe
+perdu
+permanent
+petit
+physique
+pittoresque
+pneumatique
+poilu
+poreux
+portable
+portatif
+pratique
+premier
+primitif
+prochain
+professionnel
+promotionnel
+précaire
+précieux
+précoce
+préfabriqué
+préhensile
+public
+périmé depuis N mois
+quelconque
+radioactif
+rare
+redoutable
+ridicule
+rituel
+rouge
+rouillé
+rude
+rugueux
+récurrent
+rédhibitoire
+réduit
+réel
+régional
+réglementaire
+régulier
+rôti
+sacré
+sacré
+sale
+sauvage
+savoureux
+scientifique
+secret
+sensible
+sibyllin
+simple
+sinusoïdal
+solide
+solide
+sombre
+somptueux
+sonore
+sophistiqué
+sordide
+soyeux
+splendide
+spécial
+standard
+statique
+stellaire
+stupide
+sublime
+subsidiaire
+substanciel
+subtil
+superbe
+superficiel
+sur coussin d'air
+sur mesure
+surréaliste
+symbolique
+synthétique
+sélectif
+sérieux
+sévère
+tardif
+temporaire
+tendre
+terne
+terrible
+terrifiant
+thématique
+théorique
+thérapeutique
+titanesque
+tordu
+torsadé
+totalement insonorisé
+toxique
+traditionnel
+tragique
+transparent
+triple
+triste
+trop salé
+tropical
+tubulaire
+téléologique
+téléscopique
+usagé
+valant N euros
+velu
+vert
+vespéral
+vide
+vieux / vieil
+vil
+vilain
+virtuel
+visible
+visible
+vital
+vivant
+vrai
+véritable
+à air comprimé
+à condensation
+à cran d'arrêt
+à deux sous
+à deux vitesses
+à géométrie variable
+à hélices
+à la menthe
+à percussion
+à piles
+à roulettes
+à répétition
+à vapeur
+à vendre
+à voiles
+éblouissant
+édulcoré
+électrique
+élégant
+élémentaire
+énergétique
+énigmatique
+énorme
+épistémologique
+équiprobable
+équipé de capteurs à infrarouge
+érotique
+étanche
+éteint
+éthéré
+étrange
+étranger
+évident
+évoqué ci-dessus
+
+--- AFFICHAGE DE LA LISTE DES 301 COMPLEMENTS DE LIEU ---
+
+ailleurs
+au Brésil
+au Chili
+au Groland
+au Guatemala
+au Japon
+au Kenya
+au Népal
+au Portugal
+au Pérou
+au Qatar
+au Québec
+au Soudan
+au Surinam
+au bar du coin
+au bord de la Seine
+au bord de la mer
+au bout du parcours
+au calme
+au centre de la bibliothèque de Babel
+au centre-ville
+au cimetière
+au coin de l'avenue (personne célèbre) et du boulevard (personne célèbre)
+au dernier sous-sol du parking souterrain
+au fond de l'eau
+au fond des égouts
+au fond du poulailler
+au fond du problème
+au fond à droite
+au guichet de la poste
+au large des Philippines
+au lit
+au milieu de l'écran
+au milieu de la fête foraine
+au musée de la bière
+au palais des congrès
+au paradis
+au pays de (personne célèbre)
+au pays des merveilles
+au pied de la statue de la liberté
+au purgatoire
+au pôle nord
+au rayon alimentation
+au restaurant
+au secrétariat du premier étage
+au soleil
+au sous-sol
+au sud de Fort Alamo
+auprès de (personne célèbre)
+auprès de moi
+auprès de vous
+aux Etats-Unis
+aux abords du Yang Tse Kiang
+aux alentours de Mexico
+aux confins de la galaxie
+aux fins fonds de la Meuse
+aux pieds de (personne célèbre)
+aux toilettes
+bien au chaud
+bien à l'abri
+chez (personne célèbre)
+chez Mamie
+chez eux
+chez le coiffeur
+chez moi
+chez nous
+chez toi
+chez un (sujet masculin)
+chez une (sujet féminin)
+chez votre marchand de journaux
+chez vous
+dans N pays
+dans des sables mouvants
+dans l'Arkansas
+dans l'ascenseur
+dans l'eau
+dans l'escalier
+dans l'impasse (personne célèbre)
+dans l'édifice
+dans la chambre d'une (sujet féminin)
+dans la corbeille Windows
+dans la cour de récréation
+dans la forêt
+dans la fosse commune
+dans la gueule du loup
+dans la quatrième dimension
+dans la rue
+dans le Calvados
+dans le Massachussets
+dans le Missouri
+dans le Poitou
+dans le Poitou
+dans le coffre de la voiture d'un (sujet masculin)
+dans le couloir de la mort
+dans le dossier "Archive"
+dans le désert
+dans le jardin privé de (personne célèbre)
+dans le lit d'un (sujet masculin)
+dans le mur
+dans le sud de l'Italie
+dans le tram
+dans les Vosges
+dans les banques
+dans les bureaux de la permanence syndicale
+dans les caves du chateau
+dans les couloirs de l'hôpital
+dans les couloirs du pentagone
+dans les orties
+dans les pâquerettes
+dans les quartiers résidentiels de Séoul
+dans les soutes du jet privé de (personne célèbre)
+dans mon bureau
+dans mon garage
+dans mon jardin
+dans un arbre
+dans un avion
+dans un bunker
+dans un couloir de métro
+dans un photomaton
+dans une autre dimension
+dans une banque du Luxembourg
+dans une cabine téléphonique
+dans une rue piétonnne
+dehors
+derrière la maison
+derrière la porte interdite
+derrière les barricades
+derrière un arbre
+derrière vous
+devant l'office du tourisme de Grenoble
+devant la boucherie
+devant la pharmacie
+devant la statue de (personne célèbre)
+devant le lycée professionnel (personne célèbre)
+devant un (sujet masculin)
+devant une (sujet féminin)
+en Afghanistan
+en Alaska
+en Allemagne
+en Angola
+en Antarctique
+en Aquitaine
+en Belgique
+en Birmanie
+en Bourgogne
+en Chine
+en Espagne
+en Europe
+en Finlande
+en Floride
+en France
+en Grèce
+en Ile-De-France
+en Inde
+en Irak
+en Iran
+en Irlande
+en Mauritanie
+en Moldavie
+en Palestine
+en Pologne
+en Russie
+en Slovaquie
+en Suisse
+en canoe kayak
+en coulisses
+en direction de (personne célèbre)
+en enfer
+en face du cimetière
+en l'air
+en montagne
+en orbite autour de Neptune
+en orbite géostationnaire
+en plein air
+en public
+en salle des professeurs
+en salle informatique
+en terrain conquis
+en ville
+en voiture
+entre (personne célèbre) et (personne célèbre)
+entre deux portes
+entre le marteau et l'enclume
+entre les parois
+entre un (sujet masculin) et une (sujet féminin)
+hors de l'emprise de (personne célèbre)
+ici
+loin de tout (sujet masculin)
+loin de toute (sujet féminin)
+là où (personne célèbre) a rencontré son premier (sujet masculin)
+là où chaque (sujet féminin) pense pouvoir rencontrer (personne célèbre)
+là-bas
+où tu veux
+par terre
+partout
+près d'une fontaine
+près de (personne célèbre)
+quelque part
+quelque part autour de Kaboul
+quelque part sur mon disque dur
+sous le soleil de Caracas
+sous les arbres
+sous les mers
+sous les pavés
+sous les ponts
+sous les projecteurs
+sous les yeux d'un (sujet masculin)
+sous les yeux d'une (sujet féminin)
+sous terre
+sous tes yeux
+sous ton nez
+sur Internet
+sur Terre
+sur des charbons ardents
+sur l'aile d'un airbus en feu
+sur l'île de Sumatra
+sur la Lune
+sur la bande d'arrêt d'urgence
+sur la ligne de touche
+sur la paille
+sur la place du marché
+sur la plage
+sur la terre qui a vu naître (personne célèbre)
+sur la tombe de (personne célèbre)
+sur la troisième lune de Jupiter
+sur le flanc du Vésuve
+sur le lieu de travail d'un (sujet masculin)
+sur le lieu de travail d'une (sujet féminin)
+sur le parking du supermarché
+sur le pont de la rivière Kwaï
+sur le pont du Titanic
+sur le quai de la gare
+sur le ring
+sur le terrain de basket
+sur le toit de l'église
+sur le trottoir d'en face
+sur les berges de la Loire
+sur les pentes enneigées de l'Everest
+sur les rails du métro
+sur les rives du Nil
+sur les rives du Rhin
+sur mon canapé
+sur un iceberg
+sur un terrain d'aviation
+sur un terrain de golf
+sur une aire d'autoroute
+sur une île appartenant à (personne célèbre)
+tout le long de la frontière est du Turkmenistan
+tout le long du chemin
+tout là-bas
+tout là-haut
+très loin d'ici
+à N années-lumière du soleil
+à N kilomètres vers le nord
+à N mètres sous terre
+à N mètres d'ici
+à Atlanta
+à Barcelone
+à Bornéo
+à Calcutta
+à Copenhague
+à Disneyland
+à Dubai
+à Gotham City
+à Guantanamo
+à Kyoto
+à Londres
+à Manhattan
+à Mexico
+à Montréal
+à Moscou
+à Nancy
+à Orléans
+à Rome
+à Stockholm
+à Tombouctou
+à Varsovie
+à bord d'un croiseur de classe IV
+à bord d'une péniche
+à bord du wagon restaurant
+à domicile
+à environ N kilomètres
+à l'arrêt du tram
+à l'aéroport
+à l'intérieur
+à l'ombre
+à l'ombre d'un peuplier
+à l'ombre de la cathédrale
+à l'ouest
+à la bibliothèque
+à la campagne
+à la cantine
+à la croisée des chemins
+à la frontière
+à la limite du cercle polaire arctique
+à la maison
+à la morgue
+à la piscine
+à plus de N kilomètres de la civilisation
+à portée de main
+à proximité
+
+--- AFFICHAGE DE LA LISTE DES 111 COMPLEMENTS DE TEMPS ---
+
+COMPLEMENTS (tous temps)
+
+N ans avant l'invention de la mobylette par (personne célèbre)
+N fois par an
+N fois par jour
+N fois par semaine
+N jours après Noël
+N minutes avant de monter sur scène
+N mois avant l'élection de (personne célèbre) aux plus hautes fonctions de l'Etat
+N semaines après l'accident
+au début du printemps
+au moment voulu
+au même moment
+aujourd'hui
+en hiver
+en plein après-midi
+la veille de Noël
+pendant N minutes
+pendant la nuit
+pendant le mois de Ramadan
+pendant les vacances scolaires
+pendant plus de N ans
+pendant plusieurs semaines
+pendant tout l'été
+tous les ans
+tous les dimanches
+tous les jours
+tous les matins
+tous les mercredis
+tous les mois
+toutes les nuits
+une fois tous les N ans environ
+à N heures précises
+à chaque anniversaire de la mort de (personne célèbre)
+à l'automne
+à midi
+à minuit
+
+COMPLEMENTS (passé)
+
+N mille ans avant notre ère
+au début
+au moyen-âge
+au temps des pharaons
+avant (personne célèbre)
+avant la catastrophe
+avant la mort de (personne célèbre)
+avant mai 68
+avant ta venue au monde
+avant toute cette affaire
+avant-hier
+durant la dernière ère glaciaire
+en N avant Jésus-Christ
+en 1914
+en 1976
+en 1984
+en 1995
+en l'an 2000
+en l'an de grâce 1248
+hier midi
+hier
+il y a très longtemps
+jeudi dernier
+jusqu'à aujourd'hui
+l'année dernière
+le 14 juillet 1789
+le jour de la naissance de (personne célèbre)
+lors de l'éruption du Krakatoa
+à une époque où (personne célèbre) mouillait encore ses couches
+
+COMPLEMENTS (présent)
+
+aux funérailles de (personne célèbre)
+chaque année
+chaque jour
+depuis les dernières élections
+depuis ton accident
+depuis toujours
+le jour de l'anniversaire des N ans de (personne célèbre)
+maintenant
+à cet instant précis
+à chaque révolution
+
+COMPLEMENTS (futur)
+
+après le grand cataclysme
+après le solstice d'été
+après les soldes
+après les élections de 2012
+après votre retour
+après-demain
+au moment où (personne célèbre) l'aura décidé
+au quatrième "top"
+dans N ans
+dans N secondes exactement
+dans N jours
+dans N minutes
+dans N ans
+demain
+dorénavant
+dès que (personne célèbre) aura donné son accord
+en 2050
+en l'an 3000
+jusqu'à nouvel ordre
+juste avant que le jour ne se lève
+l'année prochaine
+le jour J
+le jour du jugement dernier
+le jour où (personne célèbre) et (personne célèbre) se rencontreront
+le jour où on appréciera (personne célèbre) à sa juste valeur
+lorsque tout aura disparu
+quand ce sera possible
+quand j'en aurai vraiment marre
+quand je serai grand
+quand la chine s'éveillera
+quand les poules auront des dents
+quand tout aura cramé
+quand tout le monde aura oublié (personne célèbre)
+quand tu voudras
+vers deux heures du matin
+à partir de demain
+à tout jamais
+
+--- AFFICHAGE DE LA LISTE DES 211 SUJETS FIXES ---
+
+Amazon
+Apple
+Dieu
+Facebook
+Google
+Madame__F
+Microsoft
+Nestlé
+Sa Majesté__F
+Twitter
+beaucoup de personnes__F
+ce mec
+ce vieil aveugle
+celle-là__F
+celui qui nous manipule
+certaines des meilleures candidates__F
+certaines femmes__F
+certains économistes
+ces gens-là
+cet abruti
+cette femme complètement ivre__F
+cette personne__F
+chaque citoyen français
+l'adjoint au maire
+l'administration__F
+l'arbitre
+l'armée du Pakistan__F
+l'artiste
+l'auteur du roman
+l'avocat du diable
+l'employé du mois
+l'ennemi public numéro un
+l'ensemble des castors du Nebraska
+l'homme de ta vie
+l'union des fabricants de mines anti-personnel__F
+l'évèque de Meaux
+la Chine__F
+la Corée du Nord__F
+la France__F
+la Lybie__F
+la Panthère Rose__F
+la Suisse__F
+la Tunisie__F
+la bergère__F
+la boulangère__F
+la cohorte des musiciens de l'orchestre symphonique de Moscou__F
+la famille royale__F
+la femme idéale__F
+la foule des clients insatisfaits__F
+la foule__F
+la mafia__F
+la meilleure chanteuse de jazz de New York__F
+la personne dont tu m'as parlé__F
+la personne à laquelle je pense__F
+la plus belle__F
+la police__F
+la présentatrice de la météo__F
+la présidente finlandaise__F
+la racaille__F
+la remplaçante du facteur__F
+la société française__F
+la vendeuse de ballons__F
+le Diable
+le Honduras
+le Japon
+le Maroc
+le Mozambique
+le bouc émissaire
+le bourreau
+le capitaine
+le champion de France de karaté
+le champion du monde de sumo
+le chauffeur du taxi
+le chef des pirates
+le cuisinier
+le curé de la paroisse de Lunéville
+le dernier dandy
+le doyen de l'université
+le dresseur de furets
+le futur
+le gouvernement du Pakistan
+le juge d'instruction
+le maire de Nancy
+le marchand de sable
+le meilleur d'entre nous
+le meilleur pizzaïolo d'Italie
+le pape
+le patron
+le pentagone
+le personnage principal
+le personnel du supermarché
+le pianiste
+le pire des agents immobiliers
+le pire des salauds
+le porte-parole du gouvernement
+le poulpe
+le poète de la Mort
+le premier ministre ougandais
+le prince charmant
+le prix Nobel de chimie
+le prochain candidat
+le professeur de maths
+le roi de la piste
+le spectre du passé
+le sujet de cette phrase
+le syndicat des chauffeurs de bus
+le traitre
+le vainqueur de la course
+les Etats-Unis
+les Quatre Fantastiques
+les actionnaires de Total
+les alcooliques
+les allemands
+les anorexiques
+les apaches
+les autistes
+les autorités__F
+les avocats
+les cancres
+les coupables
+les dangereux malfaiteurs
+les deux ambulanciers
+les douaniers
+les défenseurs de la laïcité
+les enfants nés de père inconnu
+les femmes de ma vie__F
+les frères Bogdanov
+les gens
+les grecs
+les hauts gradés
+les infirmières__F
+les journalistes
+les manifestants
+les meilleurs experts
+les oiseaux migrateurs
+les personnes agées__F
+les petits commerçants de mon quartier
+les pires escrocs
+les plus ardents défenseurs de la paix
+les pompiers
+les représentants de la CGT
+les taxidermistes
+les terroristes
+les trois petits cochons
+les victimes__F
+les éboueurs
+ma meilleure amie__F
+ma sœur__F
+mes cousins
+mes meilleurs amis
+mes potes
+mon chien
+mon client
+mon cousin
+mon maître
+n'importe qui
+nos ancêtres
+plusieurs dirigeants de l'OPEP
+presque toutes les filles__F
+quelqu'un de bien
+quelqu'un
+quelques personnes__F
+quelques sportifs amateurs
+quelques techniciens
+ta mère__F
+tes fameux spécialistes
+ton chat
+ton copain plombier
+ton interlocuteur
+tous les chats du quartier
+tous les démons de l'enfer
+tous les membres de l'amicale des marins-pêcheurs
+tout le monde
+toute l'équipe__F
+trente et un pour cent des travailleurs immigrés
+un animal sauvage
+un autre homme
+un bon gars
+un clochard
+un célèbre architecte
+un drôle de type
+un enfant sur trois
+un esprit froid
+un fakir de quatre-vingt-dix ans
+un flic
+un fou furieux
+un groupe de touristes
+un imam progressiste
+un inconnu
+un ingénieur informaticien
+un journaliste sur cent
+un meurtrier psychopathe
+un médecin
+un ogre
+un ouvrier du bâtiment
+un passant
+un rat d'égout
+un rhinocéros adulte
+un riche paysan
+un sourd-muet
+un tueur en série
+une brute épaisse__F
+une femme superbe__F
+une femme sur quatre__F
+une secrétaire trilingue__F
+une âme en peine__F
+vos domestiques
+vos parents
+votre petit protégé
+votre pharmacien-conseil
+votre porte-parole
+
+--- AFFICHAGE DE LA LISTE DES 230 OBJETS FIXES ---
+
+FireFox
+Hiroshima
+Paris
+autre chose
+autrui
+ce dont je t'ai parlé
+ce laboratoire
+ce qu'il y a de plus absurde
+ce que je te dis
+ce que tu veux
+ce que vous savez
+ce qui compte le plus au monde
+ce sentiment
+ce téléphone
+cent grammes de foie de volaille
+cet ordinateur
+cette canette de bière
+cette chanson
+cette colonie de termites
+cette longue amitié
+chaque objet de valeur
+de belles idées
+de l'eau croupie
+de l'énergie
+de la neige
+des armes bactériologiques
+des centaines de ragondins
+des choses innommables
+des comptes bancaires en Suisse
+des draps en satin
+des objets métalliques
+deux cents grammes de mimolette en tranches
+deux kilos de cocaïne
+dix kilos de trombones
+dix mille dollars
+du code Javascript
+du pudding
+du sable
+l'absence de tout scrupule
+l'adultère
+l'avant-garde
+l'innocence
+l'irrésistible appel du large
+l'objet de votre demande
+l'objet du désir
+l'obstacle
+l'océan
+l'épave du Clémenceau
+l'étincelle de la vie
+la Bible
+la Déclaration Universelle des Droits de l'Homme
+la Torah
+la banlieue de Pont-à-Mousson
+la barbe de l'infidèle
+la bronchite chronique
+la camionnette de mon beau-frère
+la collection complète des oeuvres de Saint-Simon
+la dette extérieure grecque
+la doctrine chrétienne
+la décadence
+la démocratie
+la liberté
+la longue route
+la lune
+la modernité
+la moitié du monde connu
+la monnaie du pain
+la moquette
+la mort
+la mélancolie
+la méthode scientifique
+la même chose
+la physique quantique
+la pierre philosophale
+la place du condamné
+la plongée sous-marine
+la plus grande choucroute du monde
+la porte du garage
+la raison du plus fort
+la rancune
+la recette du flan aux pruneaux
+la rumeur
+la science
+la société des hommes
+la solitude
+la suite
+la suite des événements
+la table du salon
+la table périodique des éléments
+la théorie de la gravité
+la tradition chinoise
+la vengeance
+la victoire
+la vie
+la violence
+la vérité
+le Coran
+le PIB du Guatemala
+le Parlement européen
+le budget annuel de la Norvège
+le chemin de la sortie
+le chien du voisin
+le ciel
+le complément d'objet de cette phrase
+le contraire
+le courage de continuer
+le courrier en retard
+le dernier caprice de la princesse
+le facteur
+le feu de la passion
+le fil de l'aspirateur
+le fin mot de l'histoire
+le gouvernement cubain
+le grand toboggan
+le générateur de phrases
+le mistral
+le monde
+le mot "gnouffesque"
+le mot "sburle"
+le mot de la fin
+le mur
+le néant
+le plafond de la Chapelle Sixtine
+le poulet rôti
+le premier prix de beauté
+le record du monde du six cent mètres
+le regard d'un criminel
+le saut en longueur
+le septième art
+le sol
+le souvenir d'une promesse
+le tracteur du voisin
+le vent dans les branches
+le verbe "aimer"
+le vide
+les amis de ta femme
+les bénéfices accumulés
+les cours de catéchisme
+les dossiers du Canard Enchainé
+les falaises de Bretagne
+les lunettes de Lou Reed
+les membres du conseil d'administration
+les mêmes conneries
+les outils les plus adaptés
+les plus hauts nuages
+les portes de l'au-delà
+les rayons du soleil
+les sandales du prophète
+les tartes à la rhubarbe
+les vacances
+mes illusions de jeunesse
+mes yeux
+mon meilleur fromage
+n'importe quoi
+notre culpabilité
+notre relation
+plusieurs véhicules
+quelque chose
+quelque chose d'intangible
+quelques cigarettes
+soixante mille tonnes de poisson congolais
+ta chaussure gauche
+ta main
+ta récompense
+tes chaussures
+tes genoux
+tes vaines promesses
+ton cœur
+tout
+tout ce qu'il faut
+tout le matériel nécessaire
+tout le monde
+tout un tas de trucs
+toute l'humanité
+toutes mes excuses
+treize euros cinquante
+trente euros
+trente euros
+trois pesos
+un acte héroïque
+un baril de pétrole
+un bouquet de fleurs sauvages
+un bras
+un cloporte
+un colis piégé
+un corps d'athlète
+un célèbre monument parisien
+un dictionnaire
+un drôle de truc
+un faisceau ininterrompu de particules
+un feu de camp
+un graphe dirigé acyclique
+un gâteau au chocolat
+un lance-pierre de compétition
+un lance-roquettes
+un malentendu
+un milligramme d'arsenic
+un mystérieux visiteur
+un mécanisme trop complexe
+un nombre aléatoire
+un objet complètement inutile
+un ordinateur portable
+un paquet de cigarettes
+un piège grossier
+un point névralgique
+un pot de fleurs
+un simple graphe orienté acyclique
+un séquoia de quarante mètres
+un tube de smarties
+un verre de lait
+un verre de vodka
+une allumette
+une arme à feu
+une averse passagère
+une bouteille de Château Latour 1976
+une caisse d'explosifs
+une excellente surprise
+une fraise tagada
+une idée de génie
+une mèche de cheveux
+une nouvelle méthode
+une porte
+une rivière
+une sale histoire
+une sculpture moderne
+une souris USB
+une valise de drogue
+votre clavier
+votre médecin traitant
+ça
+
+--- AFFICHAGE DE LA LISTE DES 89 ADVERBES (directement accolés au verbe) ---
+
+aléatoirement
+anormalement
+arrogamment
+assez bien
+assez mal
+attentivement
+aveuglément
+beaucoup trop
+bien
+brillamment
+bruyamment
+calmement
+carrément
+clairement
+complètement
+courageusement
+curieusement
+directement
+discrètement
+divinement
+durement
+définitivement
+délibérément
+délicatement
+désespérément
+en douce
+en force
+en partie
+encore
+exagérément
+facilement
+faussement
+finement
+follement
+furieusement
+grossièrement
+habilement
+immodérément
+incidemment
+indirectement
+innocemment
+insidieusement
+intelligemment
+involontairement
+irrationnellement
+irrespectueusement
+joliment
+joyeusement
+logiquement
+longtemps
+machinalement
+mal
+modérément
+mollement
+moyennement
+nonchalamment
+normalement
+ostensiblement
+parfaitement
+particulièrement mal
+partiellement
+passionnément
+patiemment
+pleinement
+progressivement
+rapidement
+rarement
+silencieusement
+souvent
+sérieusement
+tacitement
+totalement
+toujours
+tout bêtement
+tout doucement
+tristement
+trop
+très bien
+très légèrement
+très mal
+un petit peu
+violemment
+volontairement
+vraiment
+à moitié
+à peine
+à peu près
+énergiquement
+étrangement
+
+--- AFFICHAGE DE LA LISTE DES 74 (assimilés) ADVERBES (de fin de phrase) ---
+
+N fois de suite
+N fois par jour
+avec amour
+avec application
+avec beaucoup de rigueur
+avec brio
+avec conviction
+avec difficulté
+avec ferveur
+avec fougue
+avec l'aide de (personne célèbre)
+avec l'aide de N personnes
+avec ou sans l'accord de (personne célèbre)
+avec parcimonie
+avec style
+avec élégance
+comme (personne célèbre)
+comme d'habitude
+comme le suggérait (personne célèbre)
+comme si de rien n'était
+en N phases bien précises
+en alternance
+en apesanteur
+en cadence
+en catimini
+en collaboration avec (personne célèbre) et (personne célèbre)
+en compagnie d'un (sujet masculin)
+en compagnie d'une (sujet féminin)
+en partie
+en rythme
+grâce à (personne célèbre)
+grâce à un (sujet masculin)
+grâce à une (sujet féminin)
+incognito
+jusqu'au bout
+jusqu'à ce que mort s'ensuive
+jusqu'à la nausée
+jusqu'à plus soif
+malgré les reproches de (personne célèbre)
+n'importe comment
+par amour du métier
+par dérision
+par inadvertance
+par la faute de (personne célèbre)
+pour la gloire
+pour la science
+pour les beaux yeux de (personne célèbre)
+pour nuire aux intérêts de (personne célèbre)
+sans aucun respect pour (personne célèbre)
+sans en avertir (personne célèbre)
+sans en avoir l'air
+sans en avoir les moyens
+sans hésitation
+sans la moindre honte
+sans le faire exprès
+sans le vouloir
+sans pudeur
+sans scrupules
+sans y penser
+sur commande
+sur les conseils d'un (sujet masculin)
+sur les conseils d'une (sujet féminin)
+sur les ordres de (personne célèbre)
+une dizaine de fois
+à contre jour
+à contre-cœur
+à corps et à cris
+à l'arrache
+à l'envers
+à l'infini
+à la manière de (personne célèbre)
+à moitié
+à toute berzingue
+à toute vitesse
+
+--- 94 VARIANTES DES NOMS PROPRES ---
+
+(personne célèbre) au sommet de sa forme
+(personne célèbre) complètement ivre
+(personne célèbre) en personne
+(personne célèbre) et (personne célèbre)
+(personne célèbre) et moi
+(personne célèbre) et quelques amis__H
+(personne célèbre) et sa famille__H
+(personne célèbre) et ses avocats
+(personne célèbre) et toi
+(personne célèbre) portant (personne célèbre) sur son dos
+(personne célèbre) se prenant pour (personne célèbre)
+(personne célèbre), (personne célèbre) et moi
+(personne célèbre), (personne célèbre) et toi
+(personne célèbre), (personne célèbre), et même (personne célèbre)
+(femme célèbre) (malheureusement accompagnée de (personne célèbre))__F
+(femme célèbre) déguisée en (personne célèbre)__F
+(femme célèbre) en petite tenue
+(femme célèbre) et son assistante (femme célèbre)
+(homme célèbre) (malheureusement accompagné de (personne célèbre))
+(homme célèbre) déguisé en (personne célèbre)
+(homme célèbre) et (femme célèbre) la main dans la main
+(homme célèbre) et son bras droit (homme célèbre)
+(homme célèbre) et son inséparable complice (homme célèbre)
+(homme célèbre) et toute sa clique__H
+ceux qui préfèrent (personne célèbre) à (personne célèbre)__H
+l'arbitre du match "(homme célèbre) contre (homme célèbre)"__H
+l'assassin de (personne célèbre)__H
+l'attaché de presse de (personne célèbre)__H
+l'auteur du livre "Ma vie avec (personne célèbre)"__H
+l'enfant adoptif de (personne célèbre) et de (personne célèbre)__H
+l'ennemi juré de (personne célèbre)__H
+l'homme qui a sauvé la vie de (personne célèbre)__H
+l'éditeur des oeuvres complètes de (personne célèbre)__H
+l'équipe de choc formée par (personne célèbre) et (personne célèbre)__F
+la baby-sitter de (personne célèbre)__F
+la dernière personne ayant parlé à (personne célèbre)__F
+la doublure de (personne célèbre)__F
+la famille de (personne célèbre)__F
+la femme de (homme célèbre)__F
+la grand-mère de (personne célèbre)__F
+la maman de (personne célèbre)__F
+la meilleure amie de (femme célèbre)__F
+la parodie gothique de (personne célèbre)__F
+la sage-femme qui a mis au monde (personne célèbre)__F
+la sœur de (personne célèbre)__F
+le beau-frère de (personne célèbre)__H
+le biographe attitré de (personne célèbre)__H
+le chat de (personne célèbre)__H
+le club des admirateurs de (personne célèbre)__H
+le coiffeur de (personne célèbre)__H
+le contact de (personne célèbre) dans la Mafia__H
+le fantôme de (personne célèbre)__H
+le fils caché de (personne célèbre)__H
+le fils spirituel de (homme célèbre)
+le mari de (femme célèbre)__H
+le maître à penser de (personne célèbre)__H
+le meilleur joueur d'échecs depuis (personne célèbre)__H
+le partenaire de bridge de (personne célèbre)__H
+le petit frère de (personne célèbre)__H
+le plus mauvais karatéka depuis (personne célèbre)__H
+le premier amour de (personne célèbre)__H
+le premier petit ami de (femme célèbre)__H
+le psychanaliste de (personne célèbre)__H
+le psychanalyste de (personne célèbre)__H
+le réalisateur du film "(personne célèbre) contre (personne célèbre)"__H
+le seul ami de (homme célèbre)__H
+le sosie de (personne célèbre)__H
+le voisin de palier de (personne célèbre)__H
+les enfants de (femme célèbre) et (homme célèbre)__H
+quelqu'un qui déteste (personne célèbre)__H
+quelqu'un qui ressemble à (personne célèbre)__H
+tous les amis d'enfance de (personne célèbre)__H
+tous les ancêtres de (personne célèbre)__H
+tous les descendants de (personne célèbre)__H
+tous les participants du mariage de (homme célèbre) et (femme célèbre)__H
+tout le monde sauf (personne célèbre)__H
+un ami de (personne célèbre)__H
+un barman ayant bien connu (personne célèbre)__H
+un certain "(homme célèbre)"
+un couple aussi bien assorti que (femme célèbre) et (homme célèbre)__H
+un détraqué prétendant être la réincarnation de (homme célèbre)__H
+un homme moins grand que (homme célèbre)
+un homme évoquant l'esprit de (homme célèbre) dans le corps de (homme célèbre)__H
+un lointain parent de (personne célèbre)__H
+un lutteur aussi imposant que (homme célèbre)
+un monstre sorti des cauchemars de (personne célèbre)__H
+un étrange individu à mi-chemin entre (homme célèbre) et (homme célèbre)__H
+une certaine "(femme célèbre)"
+une créature de rêve avec la voix de (personne célèbre) et les cheveux de (personne célèbre)__F
+une femme moins belle que (femme célèbre)
+une femme évoquant l'esprit de (femme célèbre) dans le corps de (femme célèbre)__F
+une groupie de (homme célèbre)__F
+une strip-teaseuse encore plus torride que (femme célèbre)__F
+une étrange personne à mi-chemin entre (femme célèbre) et (femme célèbre)__F
+
+--- AFFICHAGE DE LA LISTE DES 728 NOMS PROPRES ---
+
+525 NOMS PROPRES (masculins)
+
+Abraham Lincoln
+Aimé Césaire
+Akira Kurosawa
+Al Capone
+Al Pacino
+Alain Chabat
+Alain Gillot-Pétré
+Alain Juppé
+Alain Madelin
+Alain Minc
+Alain Prost
+Albert Cohen
+Albert Dupontel
+Albert Einstein
+Alex Jones
+Alexandre Astier
+Alexandre le Grand
+Alf
+Alfred Hitchcock
+Andrès Manuel Lopez Obrador
+André Citroën
+Andy Warhol
+Antoine De Saint-Exupéry
+Antoine de Caunes
+Aristote
+Arno Klarsfeld
+Arnold Schwartzenegger
+Arsène Lupin
+Arthur Rimbaud
+Ayrton Senna
+Babar
+Barack Obama
+Barbe-Bleue
+Baruch Spinoza
+Basile Boli
+Batman
+Bela Lugosi
+Belzébuth
+Benjamin Netanyahu
+Benoît XVI
+Bernard Menez
+Bernard Pivot
+Bernard Tapie
+Bernard Werber
+Bernard-Henri Lévy
+Bernie Sanders
+Bertrand Cantat
+Bilbo le hobbit
+Bill Clinton
+Bill Gates
+Bin Laden
+Blaise Pascal
+Bob Beamon
+Bob Marley
+Bob l'éponge
+Bobby Lapointe
+Borat
+Boris Eltsine
+Boris Vian
+Bourvil
+Bozo le clown
+Bruce Banner
+Bruce Lee
+Bruce Springsteen
+Bruce Willis
+Bruno Carette
+Bruno Cremer
+Bruno Salomone
+Buster Keaton
+Cabu
+Caliméro
+Calvin Klein
+Carl Lewis
+Carlos
+Carlos Santana
+Casimir
+Casper le fantôme
+Charlemagne
+Charles Baudelaire
+Charles Bukowski
+Charles Ingalls
+Charles Manson
+Charlie Chaplin
+Charlie Oleg
+Charlton Heston
+Che Guevara
+Cheb Khaled
+Chewbacca
+Christian Estrosi
+Christophe Colomb
+Christopher Hitchens
+Chuck Norris
+Cicéron
+Clark Gable
+Claude François
+Claude Nougaro
+Claude Piéplu
+Claude Rich
+Clint Eastwood
+Coco l'asticot
+Colbert
+Coluche
+D'Artagnan
+DJ Krush
+Dan Simmons
+Daniel Auteuil
+Daniel Cohn-Bendit
+Daniel Guichard
+Danny Boon
+Dario Moreno
+Dark Vador
+David Bowie
+David Copperfield
+David Douillet
+David Hasseloff
+David Lynch
+Derrick
+Dick Rivers
+Didier Porte
+Dieudonné
+Doc Gynéco
+Dominique Farrugia
+Dominique Strauss-Kahn
+Dominique de Villepin
+Don Quichotte
+Donald Trump
+Dracula
+Dwayne Johnson
+Eddie Mitchell
+Eddie Murphy
+Edouard Balladur
+Eli Wallach
+Elon Musk
+Elvis Presley
+Emile Zola
+Emiliano Zapata
+Emmanuel Macron
+Enrico Macias
+Enzo Ferrari
+Eric Cantona
+Eric Cartman
+Eric Naulleau
+Eric Woerth
+Erik Satie
+Ernest-Antoine Seillière
+Eros Ramazzotti
+Etienne Mougeotte
+Euclide
+Evo Morales
+Fernandel
+Fidel Castro
+Flash Gordon
+Florent Pagny
+Francis Cabrel
+Francis Ford Coppola
+Frank Sinatra
+Frank Zappa
+François 1er
+François Baroin
+François Bayrou
+François Fillon
+François Hadji-Lazaro
+François Mitterand
+François Morel
+Fred Astaire
+Freddie Mercury
+Frédéric Mitterand
+Gad Elmaleh
+Gamal Abdel Nasser
+Gandhi
+Garcimore
+Garfield
+Gargantua
+Garry Kasparov
+Gaston Lagaffe
+Genghis Khan
+George Carlin
+George Gershwin
+George Michael
+Georges Brassens
+Georges Moustaki
+Gilles Deleuze
+Giorgio Armani
+Godzilla
+Goldorak
+Gollum
+Groquick
+Guillaume Tell
+Guy Bedos
+Guy Lux
+Gérald Dahan
+Gérard Depardieu
+Gérard Holtz
+Gérard Jugnot
+Gérard Majax
+Hannibal Lecter
+Hannibal Smith
+Harrisson Ford
+Harry Potter
+Harry Roselmack
+Hayao Miyazaki
+Hector de Troie
+Helmut Kohl
+Henri IV
+Henri Poincaré
+Henry Fonda
+Herbert Léonard
+Herbie Hancock
+Hermann Göring
+Hitler
+Homer Simpson
+Homère
+Horst Tapper
+Hugo Chavez
+Hugues Aufray
+Humphrey Bogart
+Iggy Pop
+Indiana Jones
+Isaac Asimov
+Isaac Newton
+J.R.R. Tolkien
+Jack Lang
+Jack Nicholson
+Jack Palance
+Jacques Attali
+Jacques Brel
+Jacques Chancel
+Jacques Chirac
+Jacques Delors
+Jacques Dutronc
+Jacques Martin
+Jacques Mesrine
+Jacques Séguéla
+Jamel Debbouze
+James Bond
+James Dean
+Jean Carmet
+Jean Dujardin
+Jean Jaurès
+Jean Moulin
+Jean Reno
+Jean Rochefort
+Jean Sarkozy
+Jean Tibéri
+Jean de la Fontaine
+Jean-Claude Bourret
+Jean-Claude Van Damme
+Jean-Louis Borloo
+Jean-Louis Trintignant
+Jean-Luc Delarue
+Jean-Marie Le Pen
+Jean-Marie Messier
+Jean-Paul Belmondo
+Jean-Paul II
+Jean-Paul Sartre
+Jean-Pierre Bacri
+Jean-Pierre Coffe
+Jean-Pierre Daroussin
+Jean-Pierre Foucault
+Jean-Pierre Marielle
+Jean-Pierre Papin
+Jerry Seinfeld
+Jim Carrey
+Joann Sfar
+Joe Dalton
+Joe Rogan
+Joey Starr
+John Cleese
+John F. Kennedy
+John Keats
+John Lennon
+John Travolta
+John Wayne
+Johnny Depp
+Johnny Halliday
+José Bové
+Judas
+Jules César
+Julien Courbet
+Jésus
+Kad Merad
+Karl Marx
+Ken Loach
+Kenneth Branagh
+Kermit
+Kim Jong Un
+King Kong
+Kirk Douglas
+Klaus Barbie
+Kurt Cobain
+Lakshmi Mittal
+Lancelot Du Lac
+Landru
+Laurent Fabius
+Laurent Joffrin
+Laurent Ruquier
+Lebron James
+Lee "Scratch" Perry
+Leonardo Dicaprio
+Lino Ventura
+Lionel Jospin
+Lou Ferrigno
+Louis Armstrong
+Louis Pasteur
+Louis XIV
+Louis XVI
+Louison Bobet
+Luc Ferry
+Lucky Luke
+Luis Mariano
+Luis Rego
+Luke Skywalker
+Lénine
+Léo Ferré
+Léon Trotsky
+Léon Zitrone
+Léonard De Vinci
+MC Hammer
+Machiavel
+Maradonna
+Marcel Gotilb
+Marcus Garvey
+Martin Luther King
+Martin Scorsese
+Maurice Papon
+Merlin l'enchanteur
+Michael Douglas
+Michael Jackson
+Michael Jordan
+Michael Keaton
+Michael Moore
+Michael Schumacher
+Michaël Youn
+Michel Blanc
+Michel Boujenah
+Michel Drucker
+Michel Foucault
+Michel Galabru
+Michel Platini
+Michel Sardou
+Michel Serrault
+Michel-Ange
+Mick Jagger
+Mike Brant
+Mike Tyson
+Mikhaïl Gorbatchev
+Miles Davis
+Mister Bean
+Mister T
+Mohammed VI
+Monsieur Phelbs
+Monsieur Spok
+Montesquieu
+Mouammar Kadhafi
+Mussolini
+Napoléon
+Neil Armstrong
+Nelson Mandella
+Nick Cave
+Nicolas Demorand
+Nicolas Hulot
+Nicolas Sarkozy
+Nikita Khrouchtchev
+Nosferatu
+Nostradamus
+Noël Mamère
+Obélix
+Olivier Besancenot
+Omar Bongo
+Orson Welles
+Oxmo Puccino
+Pablo Picasso
+Paco Rabanne
+Pancho Villa
+Pascal Légitimus
+Pascal Obispo
+Pascal Sevran
+Patrick Poivre d'Arvor
+Paul Anka
+Paul Bocuse
+Paul Mac Cartney
+Paul Verhoeven
+Pedro Almodovar
+Peter Jackson
+Peter Pan
+Philippe Bouvard
+Philippe De Villiers
+Philippe Léotard
+Philippe Risoli
+Philippe Sollers
+Philippe Val
+Pierre Bachelet
+Pierre Bellemare
+Pierre Bourdieu
+Pierre Desproges
+Pierre Richard
+Pino D'Angio
+Pinocchio
+Plastic Bertrand
+Platon
+Pline l'ancien
+Popeye le marin
+Pythagore
+Quasimodo
+Quincy Jones
+Radovan Karadzic
+Raspoutine
+Ray Charles
+Raymond Barre
+Raymond Devos
+Recep Erdogan
+René Descartes
+Richard Anconina
+Richard Gere
+Robert Charlebois
+Robert De Niro
+Robert Hue
+Robert Mitchum
+Robert Smith
+Robert Wadlow
+Robespierre
+Robin Williams
+Robin des bois
+Robinson Crusoë
+Robocop
+Roger Hanin
+Romain Valeri
+Ronald Mac Donald
+Ronald Reagan
+Rudyard Kipling
+Rutger Hauer
+Sacha Distel
+Saint-Anselme
+Saint-Louis
+Saint-Nicolas
+Salvador Allende
+Salvatore Adamo
+Satan
+Sean Connery
+Sean Penn
+Serge Dassault
+Serge Gainsbourg
+Sergio Leone
+Shaquille O'Neal
+Sherlock Holmes
+Shrek
+Sid Vicious
+Sigmund Freud
+Silvester Stallone
+Silvio Berlusconi
+Smaïn
+Speedy Gonzales
+Spiderman
+Staline
+Stanley Kubrick
+Stephen Fry
+Stephen King
+Steve Austin
+Stevie Wonder
+Stéphane Guillon
+Superman
+Tarzan
+Terence Hill
+Tex Avery
+Thierry Lhermitte
+Thierry la Fronde
+Thomas Sankara
+Tiger Woods
+Tim Burton
+Tino Rossi
+Tom Cruise
+Tom Jones
+Tony Blair
+Toshiro Mifune
+Umberto Eco
+Vercingétorix
+Victor Hugo
+Viktor Frankenstein
+Vil Coyote
+Vincent Van Gogh
+Vito Corleone
+Vladimir Poutine
+Voltaire
+Walt Disney
+Will Smith
+William Leymergie
+William Shakespeare
+Winston Churchill
+Wolfgang Amadeus Mozart
+Woody Allen
+Xavier Bertrand
+Yann Arthus-Bertrand
+Yannick Noah
+Yasser Arafat
+Youri Gagarine
+Yves Calvi
+Ziggy Stardust
+Zorro
+l'abbé Pierre
+l'ange Gabriel
+l'apôtre Pierre
+l'ayatollah Khomeni
+l'incroyable Hulk
+le Dalaï-Lama
+le Grand Schtroumph
+le Petit Poucet
+le Yéti
+le capitaine Haddock
+le capitaine Némo
+le cardinal de Richelieu
+le commandant Cousteau
+le commissaire Maigret
+le général De Gaulle
+le général Franco
+le juge Burgaud
+le maréchal Pétain
+le maréchal Tito
+le pape Urbain III
+le professeur Choron
+le professeur Rollin
+le professeur Tournesol
+le père Fouettard
+le roi Arthur
+le sergent Garcia
+le sous-commandant Marcos
+
+203 NOMS PROPRES (féminins)
+
+Alice Sapritch
+Angela Merkel
+Angelica Houston
+Angelina Jolie
+Anne Roumanov
+Anne Sinclair
+Anny Duperey
+Ariana Grande
+Arlette Chabot
+Arlette Laguiller
+Armande Altaï
+Barbara Bush
+Bernadette Chirac
+Bernadette Laffont
+Beyoncé
+Billie Holliday
+Blanche-Neige
+Bree Van De Kamp
+Brigitte Bardot
+Brigitte Fontaine
+Brigitte Macron
+Britney Spears
+Calamity Jane
+Camille Claudel
+Carla Bruni
+Carmen Maura
+Carole Bouquet
+Caroline de Monaco
+Catherine Deneuve
+Catherine Jacob
+Catherine de Médicis
+Cendrillon
+Chantal Goya
+Chantal Lauby
+Charlotte Gainsbourg
+Christine Bravo
+Christine Ockrent
+Cindy Crawford
+Circé la magicienne
+Claire Chazal
+Claudia Cardinale
+Claudia Schiffer
+Cléopâtre
+Coco Channel
+Condoleezza Rice
+Courtney Love
+Cynthia Nixon
+Cécile De France
+Céline Dion
+Dalida
+Denise Fabre
+Diana Ross
+Dinah Washington
+Dominique Voynet
+Dora l'exploratrice
+Dorothée
+Edith Cresson
+Edith Piaf
+Elisabeth Badinter
+Ella Fitzgerald
+Emma Bovary
+Emma Thompson
+Emmanuelle Béart
+Eva Longoria
+Fadela Amara
+Fanny Ardant
+Farah Fawcett
+Faye Dunaway
+Florence Foresti
+France Gall
+Françoise Dolto
+Françoise Sagan
+Geneviève de Fontenay
+George Sand
+Gisèle Halimi
+Grace Jones
+Hannah Montana
+Hilary Clinton
+Hildegarde Von Bingen
+Hélène De Fougerolles
+Ingrid Bettancourt
+Isabelle Adjani
+Isabelle Giordano
+Ivanka Trump
+Jackie Brown
+Jackie Sardou
+Jane Fonda
+Jeanne Calment
+Jeanne Mas
+Jeanne Moreau
+Jeanne d'Arc
+Jeannie Longo
+Jennifer Lopez
+Jessica Rabbit
+Joséphine Baker
+Julia Roberts
+Julie Delpy
+Katy Perry
+Kellyanne Conway
+Keny Arcana
+Lady Di
+Lady Gaga
+Laetitia Casta
+Lara Croft
+Lara Fabian
+Laura Ingalls
+Laure Manaudou
+Laurence Ferrari
+Laurence Parisot
+Liliane Bettencourt
+Linda Evangelista
+Linda de Souza
+Lio
+Macy Gray
+Madame Olson
+Madame Soleil
+Madonna
+Margaret Thatcher
+Marge Simpson
+Marguerite Duras
+Marie Curie
+Marie-Christine Barrault
+Marie-José Perec
+Marine Le Pen
+Marion Cotillard
+Marlene Dietrich
+Marthe Villalonga
+Martina Navratilova
+Martine Aubry
+Mary Poppins
+Mary Shelley
+Marylin Monroe
+Mata Hari
+Mathilda May
+Maïté
+Melanie Griffith
+Michèle Alliot-Marie
+Michèle Laroque
+Michèle Obama
+Mimie Mathy
+Miou-Miou
+Mireille Mathieu
+Monica Bellucci
+Muriel Robin
+Mère Thérésa
+Nadine Morano
+Nana Mouskouri
+Naomi Campbell
+Nathalie Baye
+Nicole Notat
+Nicoletta
+Nina Hagen
+Oprah Winfrey
+Pamela Anderson
+Paris Hilton
+Pocahontas
+Rachida Dati
+Rama Yade
+Rika Zaraï
+Rita Hayworth
+Romy Schneider
+Rosa Luxembourg
+Roselyne Bachelot
+Sarah Palin
+Sharon Stone
+Shéhérazade
+Sigourney Weaver
+Simone De Beauvoir
+Simone Signoret
+Simone Veil
+Soeur Emmanuelle
+Sophie Davant
+Sophie Marceau
+Steffi Graf
+Ségolène Royal
+Taylor Swift
+Uma Thurman
+Ursula Andress
+Valérie Lemercier
+Valérie Pécresse
+Vampirella
+Vanessa Paradis
+Victoria Abril
+Victoria Silvstedt
+Vénus
+Whitney Houston
+Wonder Woman
+Yma Sumac
+Yolande Moreau
+Yvette Horner
+Zabou Breitman
+Zorah "la rousse"
+la Belle au Bois Dormant
+la Lorelei
+la Schtroumphette
+la comtesse Bathory
+la comtesse De Ségur
+la fée Carabosse
+la fée Clochette
+la princesse Leïa
+la reine d'Angleterre
+la vierge Marie
+le Petit Chaperon Rouge

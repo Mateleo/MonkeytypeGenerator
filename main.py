@@ -24,14 +24,14 @@ def WordCleaner(myword):
 def ForkGrabber(x,y,word):
     if(len(word)>=x and len(word)<=y):
         return True
-    else:
+    else:*
         return False
 
 #export to a file.
 def export(lenght, min, max):
     tmp = []
     fr = open("dicofr.txt","r",encoding="utf-8")
-    exp = open('Output/export.txt',"w+",encoding="utf-8")
+    exp = open('export.txt',"w+",encoding="utf-8")
     for word in fr:
         word = WordCleaner(word)
         if(WordTester(word) and ForkGrabber(min, max, word)):

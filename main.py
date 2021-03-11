@@ -19,7 +19,8 @@ def ForkGrabber(x,y,word):
         return True
     else:
         return False
-
+        
+#export to a file. couter is to know the size
 def export():
     counter = 0
     exp = open('Output/export.txt',"w+",encoding="utf-8")

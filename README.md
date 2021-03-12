@@ -7,7 +7,7 @@
 Génère une suite de mots du dictionnaire français avec les lettres de votre choix !
 Spécialement conçu pour créer des exercices personnalisés de Bépo.
 
-## Instalation
+## Installation
 
 Le programme ne possède pas d'UI.
 Il faut rentrer les lettres dans la liste, puis lancer le programme.

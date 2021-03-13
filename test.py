@@ -229,6 +229,13 @@ def listStructure():
     return listing
 
 
+def removeF(word):
+    if word.find('_') != -1:
+        return word[:-2]
+    else:
+        return word
+
+
 def generateur():
     structure = listStructure()
     sentence = ""
@@ -236,7 +243,7 @@ def generateur():
         if i == "GN":
             max = 0
             max = randint(0, len(f["sujet"]["GN"]["NP"]))
-            rdnGN = f["sujet"]["GN"]["NP"][max]
+            rdnGN = removeF(f["sujet"]["GN"]["NP"][max])
             sentence += rdnGN+" "
         elif i == "VT":
             max = 0
@@ -249,5 +256,5 @@ def generateur():
 
 print(len(f["sujet"]["GN"]["NP"]))
 print("Tu "+conjugeur("chanter#1", 2, 1))
-for i in range(0, 12):
+for i in range(0, 30):
     print(generateur())

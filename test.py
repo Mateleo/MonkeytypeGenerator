@@ -1,5 +1,5 @@
 import json
-from random import *
+from random import randint
 
 f = json.load(open("Data/mydata.json", "r", encoding="utf-8"))
 
@@ -204,11 +204,222 @@ def conjugeur(verbe, temps, prs):
             ["lerai", "leras", "lera", "lerons", "lerez", "leront"],
             ["é", "ant"]
         ]
-    else:
-        print("ERROR "+str(t))
-        return verbe
+    elif verbe == "être":
+        formes = [
+            ["étais", "étais", "était", "étions", "étiez", "étaient"],
+            ["suis", "es", "est", "sommes", "êtes", "sont"],
+            ["serai", "seras", "sera", "serons", "serez", "seront"],
+            ["été", "étant"]
+        ]
+    elif verbe == "avoir":
+        formes = [
+            ["avais", "avais", "avait", "avions", "aviez", "avaient"],
+            ["ai", "as", "a", "avons", "avez", "ont"],
+            ["aurai", "auras", "aura", "aurons", "aurez", "auront"],
+            ["eu", "ayant"]
+        ]
+    elif verbe == "aller":
+        formes = [
+            ["allais", "allais", "allait", "allions", "alliez", "allaient"],
+            ["vais", "vas", "va", "allons", "allez", "vont"],
+            ["irai", "iras", "ira", "irons", "irez", "iront"],
+            ["allé", "allant"]
+        ]
+    elif verbe == "devoir":
+        formes = [
+            ["devais", "devais", "devait", "devions", "deviez", "devaient"],
+            ["dois", "dois", "doit", "devons", "devez", "doivent"],
+            ["devrai", "devras", "devra", "devrons", "devrez", "devront"],
+            ["du", "devant"]
+        ]
 
-    return racine+terminaisons[temps][prs]
+    elif verbe == "voir":
+        formes = [
+            ["voyais", "voyais", "voyait", "voyions", "voyiez", "voyaient"],
+            ["vois", "vois", "voit", "voyons", "voyez", "voient"],
+            ["verrai", "verras", "verra", "verrons", "verrez", "verront"],
+            ["vu", "voyant"]
+        ]
+
+    elif verbe == "savoir":
+        formes = [
+            ["savais", "savais", "savait", "savions", "saviez", "savaient"],
+            ["sais", "sais", "sait", "savons", "savez", "savent"],
+            ["saurai", "sauras", "saura", "saurons", "saurez", "sauront"],
+            ["su", "sachant"]
+        ]
+    elif verbe == "pouvoir":
+        formes = [
+            ["pouvais", "pouvais", "pouvait", "pouvions", "pouviez", "pouvaient"],
+            ["peux", "peux", "peut", "pouvons", "pouvez", "peuvent"],
+            ["pourrai", "pourras", "pourra", "pourrons", "pourrez", "pourront"],
+            ["pu", "pouvant"]
+        ]
+    elif verbe == "résoudre":
+        formes = [
+            ["résolvais", "résolvais", "résolvait",
+                "résolvions", "résolviez", "résolvaient"],
+            ["résous", "résous", "résout", "résolvons", "résolvez", "résolvent"],
+            ["résoudrai", "résoudras", "résoudra",
+                "résoudrons", "résoudrez", "résoudront"],
+            ["résolu", "résolvant"]
+        ]
+    elif verbe == "mordre":
+        formes = [
+            ["mordais", "mordais", "mordait", "mordions", "mordiez", "mordaient"],
+            ["mords", "mords", "mord", "mordons", "mordez", "mordent"],
+            ["mordrai", "mordras", "mordra", "mordrons", "mordrez", "mordront"],
+            ["mordu", "mordant"]
+        ]
+    elif verbe == "envoyer":
+        formes = [
+            ["envoyais", "envoyais", "envoyait",
+                "envoyions", "envoyiez", "envoyaient"],
+            ["envoie", "envoies", "envoie", "envoyons", "envoyez", "envoient"],
+            ["enverrai", "enverras", "enverra",
+                "enverrons", "enverrez", "enverront"],
+            ["envoyé", "envoyant"]
+        ]
+    elif verbe == "faire":
+        formes = [
+            ["faisais", "faisais", "faisait", "faisions", "faisiez", "faisaient"],
+            ["fais", "fais", "fait", "faisons", "faites", "font"],
+            ["ferai", "feras", "fera", "ferons", "ferez", "feront"],
+            ["fait", "faisant"]
+        ]
+    elif verbe == "vouloir":
+        formes = [
+            ["voulais", "voulais", "voulait", "voulions", "vouliez", "voulaient"],
+            ["veux", "veux", "veut", "voulons", "voulez", "veulent"],
+            ["voudrai", "voudras", "voudra", "voudrons", "voudrez", "voudront"],
+            ["voulu", "voulant"]
+        ]
+    elif verbe == "croire":
+        formes = [
+            ["croyais", "croyais", "croyait", "croyions", "croyiez", "croyaient"],
+            ["crois", "crois", "croit", "croyons", "croyez", "croient"],
+            ["croirai", "croiras", "croira", "croirons", "croirez", "croiront"],
+            ["cru", "croyant"]
+        ]
+    elif verbe == "rire":
+        formes = [
+            ["riais", "riais", "riait", "riions", "riiez", "riaient"],
+            ["ris", "ris", "rit", "rions", "riez", "rient"],
+            ["rirai", "riras", "rira", "rirons", "rirez", "riront"],
+            ["ri", "riant"]
+        ]
+    elif verbe == "lire":
+        formes = [
+            ["lisais", "lisais", "lisait", "lisions", "lisiez", "lisaient"],
+            ["lis", "lis", "lit", "lisons", "lisez", "lisent"],
+            ["lirai", "liras", "lira", "lirons", "lirez", "liront"],
+            ["lu", "lisant"]
+        ]
+    elif verbe == "dire":
+        formes = [
+            ["disais", "disais", "disait", "disions", "disiez", "disaient"],
+            ["dis", "dis", "dit", "disons", "dites", "disent"],
+            ["dirai", "diras", "dira", "dirons", "direz", "diront"],
+            ["dit", "disant"]
+        ]
+    elif verbe == "interdire":
+        formes = [
+            ["interdisais", "interdisais", "interdisait",
+                "interdisions", "interdisiez", "interdisaient"],
+            ["interdis", "interdis", "interdit",
+                "interdisons", "interdisez", "interdisent"],
+            ["interdirai", "interdiras", "interdira",
+                "interdirons", "interdirez", "interdiront"],
+            ["interdit", "interdisant"]
+        ]
+    elif verbe == "suivre":
+        formes = [
+            ["suivais", "suivais", "suivait", "suivions", "suiviez", "suivaient"],
+            ["suis", "suis", "suit", "suivons", "suivez", "suivent"],
+            ["suivrai", "suivras", "suivra", "suivrons", "suivrez", "suivront"],
+            ["suivi", "suivant"]
+        ]
+    elif verbe == "perdre":
+        formes = [
+            ["perdais", "perdais", "perdait", "perdions", "perdiez", "perdaient"],
+            ["perds", "perds", "perd", "perdons", "perdez", "perdent"],
+            ["perdrai", "perdras", "perdra", "perdrons", "perdrez", "perdront"],
+            ["perdu", "perdant"]
+        ]
+    elif verbe == "dormir":
+        formes = [
+            ["dormais", "dormais", "dormait", "dormions", "dormiez", "dormaient"],
+            ["dors", "dors", "dort", "dormons", "dormez", "dorment"],
+            ["dormirai", "dormiras", "dormira",
+                "dormirons", "dormirez", "dormiront"],
+            ["dormi", "dormant"]
+        ]
+    elif verbe == "courir":
+        formes = [
+            ["courais", "courais", "courait", "courions", "couriez", "couraient"],
+            ["cours", "cours", "court", "courons", "courez", "courent"],
+            ["courrai", "courras", "courra", "courrons", "courrez", "courront"],
+            ["couru", "courant"]
+        ]
+    elif verbe == "recourir":
+        formes = [
+            ["recourais", "recourais", "recourait",
+                "recourions", "recouriez", "recouraient"],
+            ["recours", "recours", "recourt", "recourons", "recourez", "recourent"],
+            ["recourrai", "recourras", "recourra",
+                "recourrons", "recourrez", "recourront"],
+            ["recouru", "recourant"]
+        ]
+    elif verbe == "mourir":
+        formes = [
+            ["mourais", "mourais", "mourait", "mourions", "mouriez", "mouraient"],
+            ["meurs", "meurs", "meurt", "mourons", "mourez", "meurent"],
+            ["mourrai", "mourras", "mourra", "mourrons", "mourrez", "mourront"],
+            ["mort", "mourant"]
+        ]
+    elif verbe == "plaire":
+        formes = [
+            ["plaisais", "plaisais", "plaisait",
+                "plaisions", "plaisiez", "plaisaient"],
+            ["plais", "plais", "plaît", "plaisons", "plaisez", "plaisent"],
+            ["plairai", "plairas", "plaira", "plairons", "plairez", "plairont"],
+            ["plu", "plaisant"]
+        ]
+    elif verbe == "nuire":
+        formes = [
+            ["nuisais", "nuisais", "nuisait", "nuisions", "nuisiez", "nuisaient"],
+            ["nuis", "nuis", "nuit", "nuisons", "nuisez", "nuisent"],
+            ["nuirai", "nuiras", "nuira", "nuirons", "nuirez", "nuiront"],
+            ["nui", "nuisant"]
+        ]
+    elif verbe == "fuir":
+        formes = [
+            ["fuyais", "fuyais", "fuyait", "fuyions", "fuyiez", "fuyaient"],
+            ["fuis", "fuis", "fuit", "fuyons", "fuyez", "fuient"],
+            ["fuirai", "fuiras", "fuira", "fuirons", "fuirez", "fuiront"],
+            ["fui", "fuyant"]
+        ]
+    elif verbe == "enfuir":
+        formes = [
+            ["enfuyais", "enfuyais", "enfuyait",
+                "enfuyions", "enfuyiez", "enfuyaient"],
+            ["enfuis", "enfuis", "enfuit", "enfuyons", "enfuyez", "enfuient"],
+            ["enfuirai", "enfuiras", "enfuira",
+                "enfuirons", "enfuirez", "enfuiront"],
+            ["enfui", "enfuyant"]
+        ]
+    elif verbe == "fair":
+        formes = [
+            ["faissais", "faissais", "faissait",
+                "faissions", "faissiez", "faissaient"],
+            ["fais", "fais", "fait", "faissons", "faissez", "faissent"],
+            ["fairai", "fairas", "faira", "fairons", "fairez", "fairont"],
+            ["fai", "faissant"]
+        ]
+    if t!=0:
+        return racine+terminaisons[temps][prs]
+    else:
+        return formes[temps][prs]
 
 
 def listStructure():

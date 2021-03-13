@@ -685,8 +685,8 @@ var Grimoire = {
       switch (i) {
         case 0:  proto.pushEach("VN"); break;
         case 1:  proto.pushEach("VN", "AP"); break;
-        case 2:  proto.pushEach("VT", "CO"); break;
-        case 3:  proto.pushEach("VT", "GN"); break;
+        case 2:  proto.pushEach("VT", "CO"); break; //Done
+        case 3:  proto.pushEach("VT", "GN"); break; //Done
         case 4:  proto.pushEach("VT", "AP", "GN"); break;
         case 5:  proto.pushEach("VT", "AP", "CO"); break;
         case 6:  proto.pushEach("VTL", "CL"); break;

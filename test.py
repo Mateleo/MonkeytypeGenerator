@@ -13,9 +13,11 @@ def VerbeType(verbe):
 
 def conjugeur(verbe, temps, prs):
     t = VerbeType(verbe)
-    verbe = verbe[:verbe.find('#')]
+    if verbe.find('#')!=-1:
+        verbe = verbe[:verbe.find('#')]
     racine = ""
     terminaisons = []
+    formes = []
     if t == 1:  # 1 : (modèle: chanter)
         racine = verbe[:-2]
         terminaisons = [
@@ -379,8 +381,7 @@ def conjugeur(verbe, temps, prs):
         ]
     elif verbe == "plaire":
         formes = [
-            ["plaisais", "plaisais", "plaisait",
-                "plaisions", "plaisiez", "plaisaient"],
+            ["plaisais", "plaisais", "plaisait","plaisions", "plaisiez", "plaisaient"],
             ["plais", "plais", "plaît", "plaisons", "plaisez", "plaisent"],
             ["plairai", "plairas", "plaira", "plairons", "plairez", "plairont"],
             ["plu", "plaisant"]
@@ -416,9 +417,10 @@ def conjugeur(verbe, temps, prs):
             ["fairai", "fairas", "faira", "fairons", "fairez", "fairont"],
             ["fai", "faissant"]
         ]
-    if t!=0:
+    if t != 0:
         return racine+terminaisons[temps][prs]
     else:
+        print(verbe, prs)
         return formes[temps][prs]
 
 
@@ -433,10 +435,13 @@ def listStructure():
     if choice == 0:
         listing.append("")
     # 1 cas par verbe principal possible (44 actuellement)
-    choice = randint(0, 0)
+    choice = randint(0, 1)
     if choice == 0:
         listing.append("VT")
         listing.append("GN")
+    elif choice == 1:
+        listing.append("VT")
+        listing.append("CO")
     return listing
 
 
@@ -454,14 +459,18 @@ def generateur():
         if i == "GN":
             max = 0
             max = randint(0, len(f["sujet"]["GN"]["NP"]))
-            rdnGN = removeF(f["sujet"]["GN"]["NP"][max])
+            rdnGN = removeF(f["sujet"]["GN"]["NP"][max-1])
             sentence += rdnGN+" "
         elif i == "VT":
             max = 0
-            max = randint(0, len(f["verbe"]["transitif"]))
+            max = randint(0, len(f["verbe"]["transitif"])-1)
             rdnVerbe = f["verbe"]["transitif"][max]
             verbe = conjugeur(rdnVerbe, randint(0, 2), 2)
             sentence += verbe+" "
+        elif i == "CO":
+            max = randint(0, len(f["complements"]["objDir"])-1)
+            co = f["complements"]["objDir"][max]
+            sentence += co+" "
     return sentence[:-1]
 
 

@@ -13,7 +13,7 @@ def VerbeType(verbe):
 
 def conjugeur(verbe, temps, prs):
     t = VerbeType(verbe)
-    if verbe.find('#')!=-1:
+    if verbe.find('#') != -1:
         verbe = verbe[:verbe.find('#')]
     racine = ""
     terminaisons = []
@@ -27,7 +27,7 @@ def conjugeur(verbe, temps, prs):
             ["é", "ant"]
         ]
     elif t == 2:  # 2 : (modèle: finir)
-        racine = verbe[:-3]
+        racine = verbe[:-4]
         terminaisons = [
             ["issais", "issais", "issait", "issions", "issiez", "issaient"],
             ["is", "is", "it", "issons", "issez", "issent"],
@@ -381,7 +381,8 @@ def conjugeur(verbe, temps, prs):
         ]
     elif verbe == "plaire":
         formes = [
-            ["plaisais", "plaisais", "plaisait","plaisions", "plaisiez", "plaisaient"],
+            ["plaisais", "plaisais", "plaisait",
+                "plaisions", "plaisiez", "plaisaient"],
             ["plais", "plais", "plaît", "plaisons", "plaisez", "plaisent"],
             ["plairai", "plairas", "plaira", "plairons", "plairez", "plairont"],
             ["plu", "plaisant"]
@@ -435,13 +436,17 @@ def listStructure():
     if choice == 0:
         listing.append("")
     # 1 cas par verbe principal possible (44 actuellement)
-    choice = randint(0, 1)
+    choice = randint(0, 2)
     if choice == 0:
         listing.append("VT")
         listing.append("GN")
     elif choice == 1:
         listing.append("VT")
         listing.append("CO")
+    elif choice == 2:
+        listing.append("VT")
+        listing.append("AP")
+        listing.append("GN")
     return listing
 
 
@@ -471,6 +476,11 @@ def generateur():
             max = randint(0, len(f["complements"]["objDir"])-1)
             co = f["complements"]["objDir"][max]
             sentence += co+" "
+        elif i=="AP":
+            max = randint(0, len(f["adverbes"]["postpose"])-1)
+            ap = f["adverbes"]["postpose"][max]
+            sentence += ap+" "
+
     return sentence[:-1]
 
 

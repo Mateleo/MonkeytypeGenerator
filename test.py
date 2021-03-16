@@ -421,6 +421,7 @@ def conjugeur(verbe, temps, prs):
     if t != 0:
         return racine+terminaisons[temps][prs]
     else:
+        print("DB : "+verbe+","+str(temps)+","+str(prs))
         return formes[temps][prs]
 
 
@@ -446,17 +447,17 @@ def listStructure():
         listing.append("VT")
         listing.append("AP")
         listing.append("GN")
-    elif choice==3:
+    elif choice == 3:
         listing.append("VT")
         listing.append("AP")
         listing.append("CO")
-    elif choice ==4:
+    elif choice == 4:
         listing.append("VTL")
         listing.append("CL")
-    elif choice==5:
+    elif choice == 5:
         listing.append("VTL")
         listing.append("AP")
-        listing.append("CL") 
+        listing.append("CL")
     return listing
 
 
@@ -466,8 +467,9 @@ def removeF(word):
     else:
         return word
 
+
 def personneFinder(word):
-    if word.find('@')!=0:
+    if word.find('@') != 0:
         return int(word[word.find('@')+1])
     else:
         return word
@@ -479,16 +481,16 @@ def generateur():
     prs = 2
     for i in structure:
         if i == "GN":
-            if randint(0,1):
+            if randint(0, 1):
                 max = 0
                 max = randint(0, len(f["sujet"]["GN"]["NP"]))
                 rdnGN = removeF(f["sujet"]["GN"]["NP"][max-1])
-                
+
             else:
                 max = randint(0, len(f["sujet"]["GN"]["classique"])-1)
                 rdnGN = removeF(f["sujet"]["GN"]["classique"][max])
                 prs = personneFinder(f["sujet"]["GN"]["classique"][max])-1
-                if rdnGN[-1]=='_':
+                if rdnGN[-1] == '_':
                     rdnGN = rdnGN[:-3]
                 else:
                     rdnGN = rdnGN[:-2]
@@ -504,37 +506,40 @@ def generateur():
             max = randint(0, len(f["complements"]["objDir"])-1)
             co = f["complements"]["objDir"][max]
             sentence += co+" "
-        elif i=="AP":
+        elif i == "AP":
             max = randint(0, len(f["adverbes"]["postpose"])-1)
             ap = f["adverbes"]["postpose"][max]
             sentence += ap+" "
-        elif i=="VTL":
+        elif i == "VTL":
             part2 = ""
             part1 = ""
             max = randint(0, len(f["verbe"]["avecPreposition"]["lieu"])-1)
             rdnVerbe = f["verbe"]["avecPreposition"]["lieu"][max]
-            if rdnVerbe.find('{')!=-1:
-                part2  = rdnVerbe[rdnVerbe.find('{')+1:-1]+" "
-                rdnVerbe = rdnVerbe[:rdnVerbe.find('{')]
-            if rdnVerbe[:2]=="se":
-                rdnVerbe =rdnVerbe[3:]
-                part1 = "se "
-            elif rdnVerbe[:2]=="s":
-                rdnVerbe =rdnVerbe[2:]
-                part1 = "s'"
+            if rdnVerbe == "s'enfuir":
+                rdnVerbe = "fuir"
+                part1 = "s'en"
+            else:
+                if rdnVerbe.find('{') != -1:
+                    part2 = rdnVerbe[rdnVerbe.find('{')+1:-1]+" "
+                    rdnVerbe = rdnVerbe[:rdnVerbe.find('{')]
+                if rdnVerbe[:2] == "se":
+                    rdnVerbe = rdnVerbe[3:]
+                    part1 = "se "
+                elif rdnVerbe[:2] == "s":
+                    rdnVerbe = rdnVerbe[2:]
+                    part1 = "s'"
             verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
             prs = 2
             sentence += part1+verbe+" "+part2
-        elif i=="CL":
+        elif i == "CL":
             max = randint(0, len(f["complements"]["lieu"])-1)
             lieu = f["complements"]["lieu"][max]
-            while lieu.find('$')!=-1:
+            while lieu.find('$') != -1:
                 max = 0
                 max = randint(0, len(f["sujet"]["GN"]["NP"]))
                 rdnGN = removeF(f["sujet"]["GN"]["NP"][max-1])+" "
-                lieu = lieu.replace("$",rdnGN)
+                lieu = lieu.replace("$", rdnGN)
 
-             
             sentence += lieu+" "
 
     return sentence[:-1]
@@ -542,5 +547,5 @@ def generateur():
 
 print(len(f["sujet"]["GN"]["NP"]))
 print("Tu "+conjugeur("chanter#1", 2, 1))
-for i in range(0, 30):
+for i in range(0, 70):
     print(generateur())

@@ -689,8 +689,8 @@ var Grimoire = {
         case 3:  proto.pushEach("VT", "GN"); break; //Done
         case 4:  proto.pushEach("VT", "AP", "GN"); break; //Done
         case 5:  proto.pushEach("VT", "AP", "CO"); break; //Done
-        case 6:  proto.pushEach("VTL", "CL"); break; //done
-        case 7:  proto.pushEach("VTL", "AP", "CL"); break;
+        case 6:  proto.pushEach("VTL", "CL"); break; //Done
+        case 7:  proto.pushEach("VTL", "AP", "CL"); break; //Done
         case 8:  proto.pushEach("VOA", "§à", "CO"); break;
         case 9:  proto.pushEach("VOD", "§de", "CO"); break;
         case 10: proto.pushEach("VOS", "§sur", "CO"); break;

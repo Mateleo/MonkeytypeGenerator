@@ -35,7 +35,7 @@ def conjugeur(verbe, temps, prs):
             ["i", "issant"]
         ]
     elif t == 3:  # 3 : (modèle: sentir)
-        racine = verbe[:-2]
+        racine = verbe[:-3]
         terminaisons = [
             ["tais", "tais", "tait", "tions", "tiez", "taient"],
             ["s", "s", "t", "tons", "tez", "tent"],
@@ -421,7 +421,6 @@ def conjugeur(verbe, temps, prs):
     if t != 0:
         return racine+terminaisons[temps][prs]
     else:
-        print(verbe)
         return formes[temps][prs]
 
 
@@ -515,7 +514,7 @@ def generateur():
             max = randint(0, len(f["verbe"]["avecPreposition"]["lieu"])-1)
             rdnVerbe = f["verbe"]["avecPreposition"]["lieu"][max]
             if rdnVerbe.find('{')!=-1:
-                part2  = rdnVerbe[rdnVerbe.find('{')+1:-1]
+                part2  = rdnVerbe[rdnVerbe.find('{')+1:-1]+" "
                 rdnVerbe = rdnVerbe[:rdnVerbe.find('{')]
             if rdnVerbe[:2]=="se":
                 rdnVerbe =rdnVerbe[3:]
@@ -529,6 +528,13 @@ def generateur():
         elif i=="CL":
             max = randint(0, len(f["complements"]["lieu"])-1)
             lieu = f["complements"]["lieu"][max]
+            while lieu.find('$')!=-1:
+                max = 0
+                max = randint(0, len(f["sujet"]["GN"]["NP"]))
+                rdnGN = removeF(f["sujet"]["GN"]["NP"][max-1])+" "
+                lieu = lieu.replace("$",rdnGN)
+
+             
             sentence += lieu+" "
 
     return sentence[:-1]

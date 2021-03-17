@@ -436,7 +436,7 @@ def listStructure():
     if choice == 0:
         listing.append("")
     # 1 cas par verbe principal possible (44 actuellement)
-    choice = randint(0, 7)
+    choice = randint(0, 8)
     if choice == 0:
         listing.append("VT")
         listing.append("GN")
@@ -463,6 +463,10 @@ def listStructure():
     elif choice==7:
         listing.append("VN")
         listing.append("AP")
+    elif choice==8:
+        listing.append("VOA")
+        listing.append("§à")  
+        listing.append("CO")  
         
     return listing
 
@@ -563,8 +567,35 @@ def generateur():
             verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
             prs = 2
             sentence += part1+verbe+" "+part2
+        elif i=="VOA":
+            part2 = ""
+            part1 = ""
+            max = randint(0, len(f["verbe"]["avecPreposition"]["a"])-1)
+            rdnVerbe = f["verbe"]["avecPreposition"]["a"][max]
+            if rdnVerbe.find('{') != -1:
+                part2 = rdnVerbe[rdnVerbe.find('{')+1:-1]+" "
+                rdnVerbe = rdnVerbe[:rdnVerbe.find('{')]
+            if rdnVerbe[:2] == "se":
+                rdnVerbe = rdnVerbe[3:]
+                part1 = "se "
+            elif rdnVerbe[:2] == "s":
+                rdnVerbe = rdnVerbe[2:]
+                part1 = "s'"
+            verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
+            prs = 2
+            print("THERE !")
+            sentence += part1+verbe+" "+part2
+        elif i=="§à":
+            sentence +="à "
 
+    sentence = autoFusion(sentence)
     return sentence[:-1]
+
+#permet de fusionner (à +les)--> aux
+def autoFusion(sentence):
+    sentence = sentence.replace("à les", "aux")
+    sentence = sentence.replace("à le", "au")
+    return sentence
 
 def exportToFile(x):
     myfile = open("Data/exemple.txt","a",encoding="utf-8")
@@ -576,8 +607,8 @@ def exportToFile(x):
 
 # print(len(f["sujet"]["GN"]["NP"]))
 # print("Tu "+conjugeur("chanter#1", 2, 1))
-for i in range(0, 10):
+for i in range(0, 30):
     print(generateur())
 
 # exportToFile(100000)
-print("DONE !")
+# print("DONE !")

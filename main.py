@@ -34,8 +34,6 @@ def ForkGrabber(x, y, word):
         return False
 
 # export to a file.
-
-
 def export(lenght, min, max):
     tmp = []
     wordlist = []

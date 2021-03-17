@@ -121,6 +121,6 @@ fr.close()
 print(ranker("certains économistes étaient en exil dans la forêt\n", 0, 12))
 
 # main
-export(20, 5, 100)
+export(20, 0, 100)
 
 print(ranker("sans un sous re toi\n", 0, 100))

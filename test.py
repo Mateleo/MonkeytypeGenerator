@@ -27,7 +27,7 @@ def conjugeur(verbe, temps, prs):
             ["é", "ant"]
         ]
     elif t == 2:  # 2 : (modèle: finir)
-        racine = verbe[:-4]
+        racine = verbe[:-2]
         terminaisons = [
             ["issais", "issais", "issait", "issions", "issiez", "issaient"],
             ["is", "is", "it", "issons", "issez", "issent"],
@@ -436,7 +436,7 @@ def listStructure():
     if choice == 0:
         listing.append("")
     # 1 cas par verbe principal possible (44 actuellement)
-    choice = randint(0, 11)
+    choice = randint(0, 15)
     if choice == 0:
         listing.append("VT")
         listing.append("GN")
@@ -481,6 +481,26 @@ def listStructure():
         listing.append("AP")
         listing.append("§à")  
         listing.append("GN")
+    elif choice==12:
+        listing.append("VOD")
+        listing.append("§de")  
+        listing.append("CO")
+    elif choice==13:
+        listing.append("VOD")
+        listing.append("§de")  
+        listing.append("GN")
+    elif choice==14:
+        listing.append("VOD")
+        listing.append("AP")
+        listing.append("§de")  
+        listing.append("GN")
+        print("HERE !!!")
+    elif choice==15:
+        listing.append("VOD")
+        listing.append("AP")
+        listing.append("§de")  
+        listing.append("CO")
+        print("HERE !!!")
         
     return listing
 
@@ -598,8 +618,28 @@ def generateur():
             verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
             prs = 2
             sentence += part1+verbe+" "+part2
+        elif i=="VOD":
+            part2 = ""
+            part1 = ""
+            max = randint(0, len(f["verbe"]["avecPreposition"]["de"])-1)
+            rdnVerbe = f["verbe"]["avecPreposition"]["de"][max]
+            if rdnVerbe.find('{') != -1:
+                part2 = rdnVerbe[rdnVerbe.find('{')+1:-1]+" "
+                rdnVerbe = rdnVerbe[:rdnVerbe.find('{')]
+            if rdnVerbe[:2] == "se":
+                rdnVerbe = rdnVerbe[3:]
+                part1 = "se "
+            elif rdnVerbe[:2] == "s":
+                rdnVerbe = rdnVerbe[2:]
+                part1 = "s'"
+            verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
+            prs = 2
+            sentence += part1+verbe+" "+part2
         elif i=="§à":
             sentence +="à "
+        elif i=="§de":
+            sentence +="de "
+            print("THERE !")
 
     sentence = autoFusion(sentence)
     return sentence[:-1]
@@ -608,6 +648,14 @@ def generateur():
 def autoFusion(sentence):
     sentence = sentence.replace("à les", "aux")
     sentence = sentence.replace("à le", "au")
+    sentence = sentence.replace("de les", "des")
+    sentence = sentence.replace("de le", "du")
+    for x in "aeiouhéèêàùäëïöüœ":
+        y = "de "+x
+        z = "d'"+x
+        sentence = sentence.replace(y,z)
+
+
     return sentence
 
 def exportToFile(x):
@@ -623,5 +671,5 @@ def exportToFile(x):
 for i in range(0, 30):
     print(generateur())
 
-# exportToFile(100000)
+# exportToFile(20000)
 # print("DONE !")

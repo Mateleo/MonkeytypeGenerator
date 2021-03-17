@@ -436,7 +436,7 @@ def listStructure():
     if choice == 0:
         listing.append("")
     # 1 cas par verbe principal possible (44 actuellement)
-    choice = randint(0, 8)
+    choice = randint(0, 11)
     if choice == 0:
         listing.append("VT")
         listing.append("GN")
@@ -466,7 +466,21 @@ def listStructure():
     elif choice==8:
         listing.append("VOA")
         listing.append("§à")  
-        listing.append("CO")  
+        listing.append("CO")
+    elif choice==9:
+        listing.append("VOA")
+        listing.append("§à")  
+        listing.append("GN")
+    elif choice==10:
+        listing.append("VOA")
+        listing.append("AP")
+        listing.append("§à")  
+        listing.append("CO")
+    elif choice==11:
+        listing.append("VOA")
+        listing.append("AP")
+        listing.append("§à")  
+        listing.append("GN")
         
     return listing
 
@@ -583,7 +597,6 @@ def generateur():
                 part1 = "s'"
             verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
             prs = 2
-            print("THERE !")
             sentence += part1+verbe+" "+part2
         elif i=="§à":
             sentence +="à "

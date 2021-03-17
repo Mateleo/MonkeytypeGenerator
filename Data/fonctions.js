@@ -694,13 +694,13 @@ var Grimoire = {
         case 8:  proto.pushEach("VOA", "§à", "CO"); break; //Done
         case 9:  proto.pushEach("VOD", "§de", "CO"); break;
         case 10: proto.pushEach("VOS", "§sur", "CO"); break;
-        case 11: proto.pushEach("VOA", "§à", "GN"); break;
+        case 11: proto.pushEach("VOA", "§à", "GN"); break; //Done
         case 12: proto.pushEach("VOD", "§de", "GN"); break;
         case 13: proto.pushEach("VOS", "§sur", "GN"); break;
-        case 14: proto.pushEach("VOA", "AP", "§à", "CO"); break;
+        case 14: proto.pushEach("VOA", "AP", "§à", "CO"); break; //Done
         case 15: proto.pushEach("VOD", "AP", "§de", "CO"); break;
         case 16: proto.pushEach("VOS", "AP", "§sur", "CO"); break;
-        case 17: proto.pushEach("VOA", "AP", "§à", "GN"); break;
+        case 17: proto.pushEach("VOA", "AP", "§à", "GN"); break; //Done
         case 18: proto.pushEach("VOD", "AP", "§de", "GN"); break;
         case 19: proto.pushEach("VOS", "AP", "§sur", "GN"); break;
         case 20: proto.pushEach("VOI", "CO", "§à", "GN"); break;

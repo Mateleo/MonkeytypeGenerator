@@ -683,8 +683,8 @@ var Grimoire = {
     for (var i = 0, iMax = 44; i < iMax; ++i) {
       proto = memListe.cloner();
       switch (i) {
-        case 0:  proto.pushEach("VN"); break;
-        case 1:  proto.pushEach("VN", "AP"); break;
+        case 0:  proto.pushEach("VN"); break; //Done
+        case 1:  proto.pushEach("VN", "AP"); break; //Done
         case 2:  proto.pushEach("VT", "CO"); break; //Done
         case 3:  proto.pushEach("VT", "GN"); break; //Done
         case 4:  proto.pushEach("VT", "AP", "GN"); break; //Done

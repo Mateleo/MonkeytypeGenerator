@@ -436,7 +436,7 @@ def listStructure():
     if choice == 0:
         listing.append("")
     # 1 cas par verbe principal possible (44 actuellement)
-    choice = randint(0, 5)
+    choice = randint(0, 7)
     if choice == 0:
         listing.append("VT")
         listing.append("GN")
@@ -458,6 +458,12 @@ def listStructure():
         listing.append("VTL")
         listing.append("AP")
         listing.append("CL")
+    elif choice==6:
+        listing.append("VN")
+    elif choice==7:
+        listing.append("VN")
+        listing.append("AP")
+        
     return listing
 
 
@@ -539,8 +545,24 @@ def generateur():
                 max = randint(0, len(f["sujet"]["GN"]["NP"]))
                 rdnGN = removeF(f["sujet"]["GN"]["NP"][max-1])+" "
                 lieu = lieu.replace("$", rdnGN)
-
             sentence += lieu+" "
+        elif i=="VN":
+            part2 = ""
+            part1 = ""
+            max = randint(0, len(f["verbe"]["intransitifs"])-1)
+            rdnVerbe = f["verbe"]["intransitifs"][max]
+            if rdnVerbe.find('{') != -1:
+                part2 = rdnVerbe[rdnVerbe.find('{')+1:-1]+" "
+                rdnVerbe = rdnVerbe[:rdnVerbe.find('{')]
+            if rdnVerbe[:2] == "se":
+                rdnVerbe = rdnVerbe[3:]
+                part1 = "se "
+            elif rdnVerbe[:2] == "s":
+                rdnVerbe = rdnVerbe[2:]
+                part1 = "s'"
+            verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
+            prs = 2
+            sentence += part1+verbe+" "+part2
 
     return sentence[:-1]
 
@@ -554,8 +576,8 @@ def exportToFile(x):
 
 # print(len(f["sujet"]["GN"]["NP"]))
 # print("Tu "+conjugeur("chanter#1", 2, 1))
-# for i in range(0, 10):
-#     print(generateur())
+for i in range(0, 10):
+    print(generateur())
 
-exportToFile(100000)
+# exportToFile(100000)
 print("DONE !")

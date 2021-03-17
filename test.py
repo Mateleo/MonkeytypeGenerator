@@ -421,7 +421,7 @@ def conjugeur(verbe, temps, prs):
     if t != 0:
         return racine+terminaisons[temps][prs]
     else:
-        print("DB : "+verbe+","+str(temps)+","+str(prs))
+        # print("DB : "+verbe+","+str(temps)+","+str(prs))
         return formes[temps][prs]
 
 
@@ -544,8 +544,18 @@ def generateur():
 
     return sentence[:-1]
 
+def exportToFile(x):
+    myfile = open("Data/exemple.txt","a",encoding="utf-8")
+    for i in range(0, x):
+        myfile.write(generateur()+"\n")
+    myfile.close()
 
-print(len(f["sujet"]["GN"]["NP"]))
-print("Tu "+conjugeur("chanter#1", 2, 1))
-for i in range(0, 70):
-    print(generateur())
+
+
+# print(len(f["sujet"]["GN"]["NP"]))
+# print("Tu "+conjugeur("chanter#1", 2, 1))
+# for i in range(0, 10):
+#     print(generateur())
+
+exportToFile(100000)
+print("DONE !")

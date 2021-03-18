@@ -428,15 +428,20 @@ def conjugeur(verbe, temps, prs):
 def listStructure():
     listing = []
     # 3 cas : [CT, VG, GN] ou [CL, VG, GN] ou [GN]
-    choice = randint(0, 0)
-    if choice == 0:
-        listing.append("GN")
+    choice = randint(0, 2)
+    if choice == 1:
+        listing.append("CT")
+        listing.append("VG")
+    if choice == 2:
+        listing.append("CL")
+        listing.append("VG")
+    listing.append("GN")
     # 1 cas par verbe modal possible (ou absence de modal)(+ 3 pour les éventuels AP)(total : 7)
     choice = randint(0, 0)
     if choice == 0:
         listing.append("")
-    # 1 cas par verbe principal possible (44 actuellement)
-    choice = randint(0, 15)
+    # 1 cas par verbe principal possible (43 actuellement)
+    choice = randint(0, 43)
     if choice == 0:
         listing.append("VT")
         listing.append("GN")
@@ -458,53 +463,208 @@ def listStructure():
         listing.append("VTL")
         listing.append("AP")
         listing.append("CL")
-    elif choice==6:
+    elif choice == 6:
         listing.append("VN")
-    elif choice==7:
+    elif choice == 7:
         listing.append("VN")
         listing.append("AP")
-    elif choice==8:
+    elif choice == 8:
         listing.append("VOA")
-        listing.append("§à")  
+        listing.append("§à")
         listing.append("CO")
-    elif choice==9:
+    elif choice == 9:
         listing.append("VOA")
-        listing.append("§à")  
+        listing.append("§à")
         listing.append("GN")
-    elif choice==10:
-        listing.append("VOA")
-        listing.append("AP")
-        listing.append("§à")  
-        listing.append("CO")
-    elif choice==11:
+    elif choice == 10:
         listing.append("VOA")
         listing.append("AP")
-        listing.append("§à")  
-        listing.append("GN")
-    elif choice==12:
-        listing.append("VOD")
-        listing.append("§de")  
+        listing.append("§à")
         listing.append("CO")
-    elif choice==13:
-        listing.append("VOD")
-        listing.append("§de")  
+    elif choice == 11:
+        listing.append("VOA")
+        listing.append("AP")
+        listing.append("§à")
         listing.append("GN")
-    elif choice==14:
+    elif choice == 12:
+        listing.append("VOD")
+        listing.append("§de")
+        listing.append("CO")
+    elif choice == 13:
+        listing.append("VOD")
+        listing.append("§de")
+        listing.append("GN")
+    elif choice == 14:
         listing.append("VOD")
         listing.append("AP")
-        listing.append("§de")  
+        listing.append("§de")
         listing.append("GN")
-        print("HERE !!!")
-    elif choice==15:
+    elif choice == 15:
+        listing.append("VOS")
+        listing.append("§sur")
+        listing.append("CO")
+    elif choice == 16:
+        listing.append("VOS")
+        listing.append("§sur")
+        listing.append("GN")
+    elif choice == 17:
+        listing.append("VOS")
+        listing.append("AP")
+        listing.append("§sur")
+        listing.append("CO")
+    elif choice == 18:
+        listing.append("VOS")
+        listing.append("AP")
+        listing.append("§sur")
+        listing.append("GN")
+    elif choice == 19:
         listing.append("VOD")
         listing.append("AP")
-        listing.append("§de")  
+        listing.append("§sur")
+        listing.append("GN")
+    elif choice == 20:
+        listing.append("VOD")
+        listing.append("AP")
+        listing.append("§sur")
         listing.append("CO")
-        print("HERE !!!")
-        
+    elif choice == 21:
+        listing.append("VOI")
+        listing.append("CO")
+        listing.append("§à")
+        listing.append("GN")
+    elif choice == 22:
+        listing.append("VOI")
+        listing.append("CO")
+        listing.append("§à")
+        listing.append("CO")
+    elif choice == 23:
+        listing.append("VOI")
+        listing.append("GN")
+        listing.append("§à")
+        listing.append("GN")
+    elif choice == 24:
+        listing.append("VOI")
+        listing.append("GN")
+        listing.append("§à")
+        listing.append("CO")
+    elif choice == 25:
+        listing.append("VOI")
+        listing.append("AP")
+        listing.append("CO")
+        listing.append("§à")
+        listing.append("GN")
+    elif choice == 26:
+        listing.append("VOI")
+        listing.append("AP")
+        listing.append("CO")
+        listing.append("§à")
+        listing.append("CO")
+    elif choice == 27:
+        listing.append("VOI")
+        listing.append("AP")
+        listing.append("GN")
+        listing.append("§à")
+        listing.append("GN")
+    elif choice == 28:
+        listing.append("VET")
+        listing.append("CO")
+        listing.append("§et")
+        listing.append("CO")
+    elif choice == 29:
+        listing.append("VET")
+        listing.append("GN")
+        listing.append("§et")
+        listing.append("CO")
+    elif choice == 30:
+        listing.append("VET")
+        listing.append("CO")
+        listing.append("§et")
+        listing.append("GN")
+    elif choice == 31:
+        listing.append("VET")
+        listing.append("GN")
+        listing.append("§et")
+        listing.append("GN")
+    elif choice == 32:
+        listing.append("VET")
+        listing.append("AP")
+        listing.append("CO")
+        listing.append("§et")
+        listing.append("CO")
+    elif choice == 33:
+        listing.append("VET")
+        listing.append("AP")
+        listing.append("GN")
+        listing.append("§et")
+        listing.append("CO")
+    elif choice == 34:
+        listing.append("VET")
+        listing.append("AP")
+        listing.append("CO")
+        listing.append("§et")
+        listing.append("GN")
+    elif choice == 35:
+        listing.append("VET")
+        listing.append("AP")
+        listing.append("GN")
+        listing.append("§et")
+        listing.append("GN")
+    elif choice == 36:
+        listing.append("VAV")
+        listing.append("CO")
+        listing.append("§avec")
+        listing.append("CO")
+    elif choice == 37:
+        listing.append("VAV")
+        listing.append("GN")
+        listing.append("§avec")
+        listing.append("CO")
+    elif choice == 38:
+        listing.append("VAV")
+        listing.append("CO")
+        listing.append("§avec")
+        listing.append("GN")
+    elif choice == 39:
+        listing.append("VAV")
+        listing.append("GN")
+        listing.append("§avec")
+        listing.append("GN")
+    elif choice == 40:
+        listing.append("VAV")
+        listing.append("AP")
+        listing.append("CO")
+        listing.append("§avec")
+        listing.append("CO")
+    elif choice == 41:
+        listing.append("VAV")
+        listing.append("AP")
+        listing.append("GN")
+        listing.append("§avec")
+        listing.append("CO")
+    elif choice == 42:
+        listing.append("VAV")
+        listing.append("AP")
+        listing.append("CO")
+        listing.append("§avec")
+        listing.append("GN")
+    elif choice == 43:
+        listing.append("VAV")
+        listing.append("AP")
+        listing.append("GN")
+        listing.append("§avec")
+        listing.append("GN")
+
     return listing
 
-
+def toLetter(nombre):
+    if nombre==0:
+        return "zéro"
+    elif nombre==1:
+        return "un"
+    elif nombre ==2:
+        return "deux"
+    elif nombre==3:
+        return "trois"
 def removeF(word):
     if word.find('_') != -1:
         return word[:-2]
@@ -584,7 +744,7 @@ def generateur():
                 rdnGN = removeF(f["sujet"]["GN"]["NP"][max-1])+" "
                 lieu = lieu.replace("$", rdnGN)
             sentence += lieu+" "
-        elif i=="VN":
+        elif i == "VN":
             part2 = ""
             part1 = ""
             max = randint(0, len(f["verbe"]["intransitifs"])-1)
@@ -601,7 +761,7 @@ def generateur():
             verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
             prs = 2
             sentence += part1+verbe+" "+part2
-        elif i=="VOA":
+        elif i == "VOA":
             part2 = ""
             part1 = ""
             max = randint(0, len(f["verbe"]["avecPreposition"]["a"])-1)
@@ -618,7 +778,7 @@ def generateur():
             verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
             prs = 2
             sentence += part1+verbe+" "+part2
-        elif i=="VOD":
+        elif i == "VOD":
             part2 = ""
             part1 = ""
             max = randint(0, len(f["verbe"]["avecPreposition"]["de"])-1)
@@ -635,35 +795,107 @@ def generateur():
             verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
             prs = 2
             sentence += part1+verbe+" "+part2
-        elif i=="§à":
-            sentence +="à "
-        elif i=="§de":
-            sentence +="de "
-            print("THERE !")
+        elif i == "VOS":
+            part2 = ""
+            part1 = ""
+            max = randint(0, len(f["verbe"]["avecPreposition"]["sur"])-1)
+            rdnVerbe = f["verbe"]["avecPreposition"]["sur"][max]
+            if rdnVerbe.find('{') != -1:
+                part2 = rdnVerbe[rdnVerbe.find('{')+1:-1]+" "
+                rdnVerbe = rdnVerbe[:rdnVerbe.find('{')]
+            if rdnVerbe[:2] == "se":
+                rdnVerbe = rdnVerbe[3:]
+                part1 = "se "
+            elif rdnVerbe[:2] == "s":
+                rdnVerbe = rdnVerbe[2:]
+                part1 = "s'"
+            verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
+            prs = 2
+            sentence += part1+verbe+" "+part2
+        elif i == "VOI":
+            max = 0
+            max = randint(0, len(f["verbe"]["avecPreposition"]["codCoi"])-1)
+            rdnVerbe = f["verbe"]["avecPreposition"]["codCoi"][max]
+            verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
+            prs = 2
+            sentence += verbe+" "
+        elif i == "VET":
+            max = 0
+            part2 = ""
+            max = randint(0, len(f["verbe"]["avecPreposition"]["et2obj"])-1)
+            rdnVerbe = f["verbe"]["avecPreposition"]["et2obj"][max]
+            if rdnVerbe.find('{') != -1:
+                part2 = rdnVerbe[rdnVerbe.find('{')+1:-1]+" "
+                rdnVerbe = rdnVerbe[:rdnVerbe.find('{')]
+            verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
+            prs = 2
+            sentence += verbe+" "
+        elif i == "VAV":
+            max = 0
+            part2 = ""
+            max = randint(0, len(f["verbe"]["avecPreposition"]["avec2obj"])-1)
+            rdnVerbe = f["verbe"]["avecPreposition"]["avec2obj"][max]
+            if rdnVerbe.find('{') != -1:
+                part2 = rdnVerbe[rdnVerbe.find('{')+1:-1]+" "
+                rdnVerbe = rdnVerbe[:rdnVerbe.find('{')]
+            verbe = conjugeur(rdnVerbe, randint(0, 2), prs)
+            prs = 2
+            sentence += verbe+" "
+        elif i == "CT":
+            max = randint(0, len(f["complements"]["temps"])-1)
+            lieu = f["complements"]["temps"][max]
+            while lieu.find('$') != -1:
+                max = 0
+                max = randint(0, len(f["sujet"]["GN"]["NP"]))
+                rdnGN = removeF(f["sujet"]["GN"]["NP"][max-1])+" "
+                lieu = lieu.replace("$", rdnGN)
+            sentence += lieu+" "
+        elif i=="VG":
+            sentence = sentence[:-1]+", "
+
+
+        elif i == "§à":
+            sentence += "à "
+        elif i == "§de":
+            sentence += "de "
+        elif i == "§sur":
+            sentence += "sur "
+        elif i == "§et":
+            sentence += "et "
+        elif i == "§avec":
+            sentence += "avec "
 
     sentence = autoFusion(sentence)
+    sentence = noPonctuation(sentence)
+    sentence = sentence.replace("&",str(randint(2, 999)))
     return sentence[:-1]
 
-#permet de fusionner (à +les)--> aux
+# permet de fusionner (à +les)--> aux
+
+
 def autoFusion(sentence):
     sentence = sentence.replace("à les", "aux")
     sentence = sentence.replace("à le", "au")
     sentence = sentence.replace("de les", "des")
     sentence = sentence.replace("de le", "du")
     for x in "aeiouhéèêàùäëïöüœ":
-        y = "de "+x
+        y = " de "+x
         z = "d'"+x
-        sentence = sentence.replace(y,z)
-
+        sentence = sentence.replace(y, z)
 
     return sentence
 
+def noPonctuation(sentence):
+    sentence = sentence.replace(",","")
+    return sentence
+
+
+
 def exportToFile(x):
-    myfile = open("Data/exemple.txt","a",encoding="utf-8")
+    myfile = open("Data/exemple.txt", "a", encoding="utf-8")
     for i in range(0, x):
         myfile.write(generateur()+"\n")
     myfile.close()
-
 
 
 # print(len(f["sujet"]["GN"]["NP"]))

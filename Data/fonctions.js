@@ -693,40 +693,40 @@ var Grimoire = {
         case 7:  proto.pushEach("VTL", "AP", "CL"); break; //Done
         case 8:  proto.pushEach("VOA", "§à", "CO"); break; //Done
         case 9:  proto.pushEach("VOD", "§de", "CO"); break; //Done
-        case 10: proto.pushEach("VOS", "§sur", "CO"); break;
+        case 10: proto.pushEach("VOS", "§sur", "CO"); break; //Done
         case 11: proto.pushEach("VOA", "§à", "GN"); break; //Done
         case 12: proto.pushEach("VOD", "§de", "GN"); break; //Done
-        case 13: proto.pushEach("VOS", "§sur", "GN"); break;
+        case 13: proto.pushEach("VOS", "§sur", "GN"); break; //Done
         case 14: proto.pushEach("VOA", "AP", "§à", "CO"); break; //Done
         case 15: proto.pushEach("VOD", "AP", "§de", "CO"); break; //Done
-        case 16: proto.pushEach("VOS", "AP", "§sur", "CO"); break;
+        case 16: proto.pushEach("VOS", "AP", "§sur", "CO"); break; //Done
         case 17: proto.pushEach("VOA", "AP", "§à", "GN"); break; //Done
         case 18: proto.pushEach("VOD", "AP", "§de", "GN"); break; //Done
-        case 19: proto.pushEach("VOS", "AP", "§sur", "GN"); break;
-        case 20: proto.pushEach("VOI", "CO", "§à", "GN"); break;
-        case 21: proto.pushEach("VOI", "CO", "§à", "CO"); break;
-        case 22: proto.pushEach("VOI", "GN", "§à", "GN"); break;
-        case 23: proto.pushEach("VOI", "GN", "§à", "CO"); break;
-        case 24: proto.pushEach("VOI", "AP", "CO", "§à", "GN"); break;
-        case 25: proto.pushEach("VOI", "AP", "CO", "§à", "CO"); break;
-        case 26: proto.pushEach("VOI", "AP", "GN", "§à", "GN"); break;
-        case 27: proto.pushEach("VOI", "AP", "CO", "§à", "CO"); break;
-        case 28: proto.pushEach("VET", "CO", "§et", "CO"); break;
-        case 29: proto.pushEach("VET", "GN", "§et", "CO"); break;
-        case 30: proto.pushEach("VET", "CO", "§et", "GN"); break;
-        case 31: proto.pushEach("VET", "GN", "§et", "GN"); break;
-        case 32: proto.pushEach("VET", "AP", "CO", "§et", "CO"); break;
-        case 33: proto.pushEach("VET", "AP", "GN", "§et", "CO"); break;
-        case 34: proto.pushEach("VET", "AP", "CO", "§et", "GN"); break;
-        case 35: proto.pushEach("VET", "AP", "GN", "§et", "GN"); break;
-        case 36: proto.pushEach("VAV", "CO", "§avec", "CO"); break;
-        case 37: proto.pushEach("VAV", "GN", "§avec", "CO"); break;
-        case 38: proto.pushEach("VAV", "CO", "§avec", "GN"); break;
-        case 39: proto.pushEach("VAV", "GN", "§avec", "GN"); break;
-        case 40: proto.pushEach("VAV", "AP", "CO", "§avec", "CO"); break;
-        case 41: proto.pushEach("VAV", "AP", "GN", "§avec", "CO"); break;
-        case 42: proto.pushEach("VAV", "AP", "CO", "§avec", "GN"); break;
-        case 43: proto.pushEach("VAV", "AP", "GN", "§avec", "GN"); break;
+        case 19: proto.pushEach("VOS", "AP", "§sur", "GN"); break; //Done
+        case 20: proto.pushEach("VOI", "CO", "§à", "GN"); break; //Done
+        case 21: proto.pushEach("VOI", "CO", "§à", "CO"); break; //Done
+        case 22: proto.pushEach("VOI", "GN", "§à", "GN"); break; //Done
+        case 23: proto.pushEach("VOI", "GN", "§à", "CO"); break; //Done
+        case 24: proto.pushEach("VOI", "AP", "CO", "§à", "GN"); break; //Done
+        case 25: proto.pushEach("VOI", "AP", "CO", "§à", "CO"); break; //Done
+        case 26: proto.pushEach("VOI", "AP", "GN", "§à", "GN"); break; //Done
+        case 27: proto.pushEach("VOI", "AP", "CO", "§à", "CO"); break; //Done
+        case 28: proto.pushEach("VET", "CO", "§et", "CO"); break; //Done
+        case 29: proto.pushEach("VET", "GN", "§et", "CO"); break; //Done
+        case 30: proto.pushEach("VET", "CO", "§et", "GN"); break; //Done
+        case 31: proto.pushEach("VET", "GN", "§et", "GN"); break; //Done
+        case 32: proto.pushEach("VET", "AP", "CO", "§et", "CO"); break; //Done
+        case 33: proto.pushEach("VET", "AP", "GN", "§et", "CO"); break; //Done
+        case 34: proto.pushEach("VET", "AP", "CO", "§et", "GN"); break; //Done
+        case 35: proto.pushEach("VET", "AP", "GN", "§et", "GN"); break; //Done
+        case 36: proto.pushEach("VAV", "CO", "§avec", "CO"); break; //Done
+        case 37: proto.pushEach("VAV", "GN", "§avec", "CO"); break; //Done
+        case 38: proto.pushEach("VAV", "CO", "§avec", "GN"); break; //Done
+        case 39: proto.pushEach("VAV", "GN", "§avec", "GN"); break; //Done
+        case 40: proto.pushEach("VAV", "AP", "CO", "§avec", "CO"); break; //Done
+        case 41: proto.pushEach("VAV", "AP", "GN", "§avec", "CO"); break; //Done
+        case 42: proto.pushEach("VAV", "AP", "CO", "§avec", "GN"); break; //Done
+        case 43: proto.pushEach("VAV", "AP", "GN", "§avec", "GN"); break; //Done
       }
       for (var j = 0, jMax = proto.length; j < jMax; ++j) {
         liste.push(proto[j]);
